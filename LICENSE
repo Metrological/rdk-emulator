@@ -202,7 +202,9 @@ including its Annex(es).
 	the Modified OSS is used in accordance with the restrictions and condi-
 	tions set forth in this Agreement, and (iii) otherwise complies with the 
 	terms and conditions of this Agreement and the terms and conditions of 
-	AGPL.
+	AGPL. Certain components of the emulator are OSS. This Agreement does 
+	not cover such components, but we refer Developers to the following link:
+	https://github.com/Metrological/rdk-emulator/blob/master/OSS_LICENSES
 
 7.	Confidentiality and Feedback
 7.1.	Developer shall consider versions of the SDK that have not yet been 
