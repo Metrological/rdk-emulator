@@ -145,7 +145,6 @@ devmem2                                          http://www.lartmaker.nl/lartwar
 dfu-util                                         https://github.com/siemens/dfu-util                                           GPLv2 
 dhcp                                             http://www.isc.org/                                                           GPLv2  
 dialog                                           http://www.openwatcom.org/index.php/Dialog_howto                              LGPLv2.1 
-dietsplash                                       RDK                                                                           Unknown
 diffutils                                        http://www.gnu.org/software/diffutils/                                        GPLv3+ 
 digitemp                                         https://wiki.vcu.edu/display/unix/Monitoring+Temperature                      GPLv2+ 
 directfb                                         http://directfb.org                                                           LGPLv2.1  
@@ -305,11 +304,7 @@ gst-plugins-bad                                  http://cgit.freedesktop.org/gst
 gst-plugins-base                                 http://ftp.gnome.org/pub/GNOME/sources/gst-plugins-base/                      GPLv2+ & LGPLv2+
 gst-plugins-gl                                   http://gstreamer.freedesktop.org/                                             GPLv2+ & LGPLv2+ & LGPLv2.1+ 
 gst-plugins-good                                 http://ftp.gnome.org/pub/GNOME/sources/gst-plugins-good/                      GPLv2+ & LGPLv2.1+
-gst-plugins-playersinkbin-emulator               RDK                                                                           GPLv2+ & LGPLv2.1+
-gst-plugins-playersinkbin-noop                   RDK                                                                           GPLv2+ & LGPLv2.1+
-gst-plugins-rdk                                  RDK                                                                           GPLv2+ & LGPLv2.1+
 gst-rtsp                                         http://gstreamer.freedesktop.org/                                             GPLv2+ & LGPLv2.1+
-gstqamtunersrc                                   RDK                                                                           GPLv2+ & LGPLv2.1+
 gstreamer                                        http://gstreamer.freedesktop.org/                                             GPLv2+ & LGPLv2.1+
 gstreamer1.0                                     http://gstreamer.freedesktop.org/                                             GPLv2+ & LGPLv2.1+  
 gstreamer1.0-meta-base                           http://gstreamer.freedesktop.org/                                             GPLv2+ & LGPLv2.1+
@@ -582,7 +577,6 @@ log4c                                            http://log4c.sourceforge.net/  
 log4cplus                                        http://sourceforge.net/projects/log4cplus/                                    Apache-2.0 and BSD-2-Clause
 logrotate                                        https://fedorahosted.org/logrotate/                                           GPLv2
 loudmouth                                        http://ftp.gnome.org/pub/GNOME/sources/loudmouth/                             GPLv2+
-lowpan-tools                                     RDK                                                                           GPLv2+    
 lrzsz                                            https://ohse.de/uwe/software/lrzsz.html                                       GPLv2+
 lsb                                              http://prdownloads.sourceforge.net/lsb                                        GPLv2+ 
 lsbinitscripts                                   http://layers.openembedded.org/layerindex/recipe/29552/                       GPLv2+  
@@ -685,9 +679,7 @@ nuttcp                                           https://packages.debian.org/sid
 obex-data-server                                 http://www.bluez.org/                                                         GPLv2+
 obexftp                                          http://ftp.gnome.org/pub/GNOME/sources/gnome-vfs-obexftp/                     GPLv2+
 ode                                              http://www.ode.org/                                                           LGPLv2.1 & BSD 
-odp                                              RDK                                                                           Unknown
 ofono                                            http://www.ofono.org/                                                         GPLv2 
-oh-puzzles                                       RDK                                                                           Unknown 
 omgps                                            http://omgps.sourceforge.net/                                                 GPLv2
 onig                                             http://ftp.iinet.net.au/pub/FreeBSD/distfiles/ruby/onig-5.9.3.tar.gz          onig_license 
 open-vcdiff                                      https://code.google.com/p/open-vcdiff/                                        Apache License 2.0
@@ -1008,9 +1000,6 @@ update-rc.d                                      http://layers.openembedded.org/
 upower                                           http://upower.freedesktop.org/                                                GPL 
 usb-modeswitch                                   http://www.draisberghof.de/usb_modeswitch/                                    GPL 
 usbinit                                          http://layers.openembedded.org/layerindex/recipe/29282/                       GPLv2 
-usbpath                                          RDK                                                                           Unknown
-usbutils                                         RDK                                                                           Unknown    
-usecpu                                           RDK                                                                           Unknown    
 util-linux                                       https://github.com/karelzak/util-linux                                        GPLv2 
 v4l-utils                                        http://git.linuxtv.org/v4l-utils.git                                          LGPLv2.1
 v86d                                             https://wiki.archlinux.org/index.php/Uvesafb                                  GPL2+ and PD
@@ -1036,7 +1025,6 @@ weston                                           http://wayland.freedesktop.org/
 weston-init                                      http://wayland.freedesktop.org/                                               MIT
 which                                            https://ftp.gnu.org/gnu/which/                                                GPLv2+
 wireless-tools                                   http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Tools.html               GPLv2 & (LGPLv2.1 | MPL-1.1 | BSD)
-wmiconfig                                        RDK                                                                           Unknown 
 wpa-supplicant                                   http://hostap.epitest.fi/wpa_supplicant/                                      BSD
 wsproxy                                          https://github.com/herenow/wsProxy                                            GPLv2
 wvdial                                           https://code.google.com/p/wvstreams/                                          GPL 
@@ -1048,7 +1036,6 @@ xcursorgen                                       http://layers.openembedded.org/
 xdelta3                                          http://xdelta.org/                                                            GPLv2+     
 xfsprogs                                         http://oss.sgi.com/projects/xfs/                                              GPL
 xmlto                                            http://cyberelk.net/tim/software/xmlto/                                       GPL 
-xupnp                                            RDK                                                                           Unknown
 xvideo-tests                                     http://layers.openembedded.org/layerindex/recipe/452/                         GPLv2+ 
 xz                                               http://tukaani.org/xz/                                                        GPLv2+ & GPLv3+ & LGPLv2.1+ & PD
 xz-native                                        http://tukaani.org/xz/                                                        GPLv2+ & GPLv3+ & LGPLv2.1+ & PD
