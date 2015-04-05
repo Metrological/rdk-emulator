@@ -1,0 +1,1069 @@
+Package Name                                     Website                                                                       License Type
+===========                                      =================                                                             ================
+
+accel-ppp                                        https://github.com/drdaeman/accel-ppp                                         GPLv2
+acl                                              http://savannah.nongnu.org/projects/acl                                       GPLv2 or LGPLv2.1
+acl-native                                       http://savannah.nongnu.org/projects/acl                                       GPLv2 or LGPLv2.1
+acpica                                           https://www.acpica.org/                                                       ACPICA License
+acpid                                            http://sourceforge.net/projects/acpid2/                                       GPLv2
+alsa-lib                                         http://www.alsa-project.org/                                                  GPLv2+
+alsa-lib-native                                  http://www.alsa-project.org/                                                  GPLv2+
+alsa-oss                                         http://www.alsa-project.org/                                                  GPLv2+
+alsa-state                                       http://www.mucross.com/downloads/tonga-linux/sources/MIT/alsa-state/          MIT
+alsa-tools                                       http://www.alsa-project.org/                                                  GPLv2 
+alsa-utils                                       http://www.alsa-project.org/                                                  GPLv2+
+alsa-utils-alsaconf                              http://www.alsa-project.org/                                                  GPLv2+ 
+aoetools                                         http://aoetools.sourceforge.net/                                              GPLv2 
+apcupsd                                          http://www.apcupsd.org/                                                       GPLv2
+apmd                                             http://apenwarr.ca/apmd/                                                      GPLv2
+apr                                              https://apr.apache.org/                                                       Apache License v2
+apr-native                                       https://apr.apache.org/                                                       Apache License v2
+apr-util                                         https://apr.apache.org/                                                       Apache License V2
+apr-util-native                                  https://apr.apache.org/                                                       Apache License V2
+apt                                              https://wiki.debian.org/Apt                                                   GPLv2
+apt-native                                       https://wiki.debian.org/Apt                                                   GPLv2
+arptables                                        http://ebtables.netfilter.org/downloads/latest.html                           GPLv2
+asio                                             http://think-async.com/Asio/                                                  Boost Software License v1.0 
+aspell                                           http://aspell.net/                                                            LGPLv2.1
+at                                               https://tracker.debian.org/pkg/at                                             GPL
+at-spi2-atk                                      https://github.com/GNOME/at-spi2-atk                                          GPLv2
+at-spi2-core                                     https://github.com/GNOME/at-spi2-atk                                          GPLv2 
+atftp                                            http://sourceforge.net/projects/atftp/                                        GPLv2 
+atk                                              https://developer.gnome.org/atk/                                              GPLv2 
+atk-native                                       https://developer.gnome.org/atk/                                              GPLv2
+atkmm                                            https://developer.gnome.org/atkmm/stable/                                     GPLV2
+attr                                             http://savannah.nongnu.org/projects/attr/                                     LGPLv2.1+ & GPLv2+
+attr-native                                      http://savannah.nongnu.org/projects/attr/                                     LGPLv2.1+ & GPLv2+
+audiofile                                        https://github.com/mpruett/audiofile/                                         LGPLv2.1
+augeas                                           http://augeas.net/                                                            LGPLv2.1+
+autoconf-archive-native                          http://savannah.gnu.org/projects/autoconf-archive/                            GPLv3
+autoconf-native                                  http://www.gnu.org/software/autoconf/                                         GPLv2 & GPLv3
+autofs                                           http://freshmeat.net/projects/autofs                                          GPL2
+autogen-native                                   http://www.gnu.org/software/autogen/                                          GPLv3
+automake                                         http://www.gnu.org/software/automake/                                         GPLv2
+automake-native                                  http://www.gnu.org/software/automake/                                         GPLv2 
+avahi                                            http://avahi.org                                                              GPLv2+ & LGPLv2.1+
+avahi-ui                                         http://avahi.org                                                              GPLv2+ & LGPLv2.1+ 
+babeltrace                                       http://www.efficios.com/babeltrace/                                           MIT & GPLv2
+barnyard2                                        https://github.com/firnsy/barnyard2                                           GPLv2
+base-files                                       http://layers.openembedded.org/layerindex/recipe/29408/                       GPLv2
+base-passwd                                      http://layers.openembedded.org/layerindex/recipe/29387/                       GPLv2
+bash                                             http://tiswww.case.edu/php/chet/bash/bashtop.html                             GPLv3+
+bash-completion                                  https://bash-completion.alioth.debian.org/                                    GPL
+bc                                               http://www.gnu.org/software/bc/bc.html                                        GPLv2+ & LGPLv2.1
+bc-native                                        http://www.gnu.org/software/bc/bc.html                                        GPLv2+ & LGPLv2.1
+beecrypt                                         http://sourceforge.net/projects/beecrypt                                      GPLv2 & LGPLv2.1
+bigbuckbunny-1080p                               http://www.bigbuckbunny.org                                                   Creative Commons Attribution 3.0 
+bigbuckbunny-480p                                http://www.bigbuckbunny.org                                                   Creative Commons Attribution 3.0 
+bigbuckbunny-720p                                http://www.bigbuckbunny.org                                                   Creative Commons Attribution 3.0 
+bind                                             http://www.isc.org/sw/bind/                                                   ISC & BSD
+binutils-cross                                   http://www.gnu.org/software/binutils/                                         GPLv3
+binutils-cross-canadian-i586                     http://www.gnu.org/software/binutils/                                         GPLv3
+binutils-crosssdk                                http://www.gnu.org/software/binutils/                                         GPLv3
+bison                                            http://www.gnu.org/software/bison/                                            GPLv3
+bjam                                             http://www.boost.org/                                                         BSL-1.0 & MIT & Python-2.0
+blktool                                          http://packages.debian.org/unstable/admin/blktool                             GPLv2+
+blktrace                                         http://packages.debian.org/unstable/admin/blktool                             GPLv2
+bluez-hcidump                                    http://www.bluez.org                                                          GPLv2+
+bluez4                                           http://www.bluez.org                                                          GPLv2+
+bluez5                                           http://www.bluez.org                                                          GPLv2+
+bonnie++                                         http://www.coker.com.au/bonnie++/                                             GPLv2
+boost                                            http://www.boost.org/                                                         Boost Software License v1.0
+bootchart                                        https://github.com/mmeeks/bootchart                                           GPL-3.0
+breakpad                                         https://code.google.com/p/google-breakpad/                                    BSD-3-Clause
+bridge-utils                                     http://sourceforge.net/projects/bridge/files/bridge/bridge-utils-1.5.tar.gz   GPLv2
+btrfs-tools                                      https://btrfs.wiki.kernel.org                                                 GPLv2
+busybox                                          http://www.busybox.net                                                        GNU GPLv2
+byacc                                            http://layers.openembedded.org                                                PD
+bzip2                                            http://www.bzip.org/                                                          bzip2
+ca-certificates                                  http://packages.debian.org/sid/ca-certificates                                GPL-2.0+ & MPL-2.0
+cairo                                            http://cairographics.org/                                                     MPL-1 & LGPLv2.1 
+cairomm                                          http://cairographics.org/                                                     MPL-1 & LGPLv2.1
+can-utils                                        http://elinux.org/Can-utils                                                   GPLv2
+canutils                                         http://trac.gateworks.com/wiki/canbus                                         GPLv2
+ccache                                           http://ccache.samba.org                                                       GPLv2+
+ccid                                             http://pcsclite.alioth.debian.org/ccid.html                                   GPLv2+
+cdrtools                                         http://cdrecord.berlios.de/private/cdrecord.html                              GPLv2 & CDDL-1.0 & LGPLv2.1+
+chkconfig                                        http://fedorahosted.org/releases/c/h/chkconfig                                GPLv2
+chroot-smartmontools-image                       http://sourceforge.net/projects/smartmontools/                                GPLv2
+chrpath                                          http://alioth.debian.org/projects/chrpath/                                    GPLv2
+cinematicexperience                              http://quitcoding.com/?page=work#cinex                                        CC-BY-3.0
+ckermit                                          https://packages.qa.debian.org/c/ckermit.html                                 THE C-KERMIT 9.0 LICENSE
+claws-plugin-rssyl                               http://www.claws-mail.org/plugin.php?plugin=rssyl                             GPL
+clutter-1.0                                      http://www.clutter-project.org/                                               LGPL
+clutter-box2d                                    http://www.clutter-project.org/                                               LGPL
+clutter-gst-1.0                                  http://www.clutter-project.org/                                               LPGL
+clutter-gtk-1.0                                  http://www.clutter-project.org/                                               LGPL
+cmake                                            http://www.cmake.org/                                                         BSD
+collectd                                         https://collectd.org/                                                         Apache 2.0
+compositeproto                                   http://www.x.org/                                                             MIT & MIT-style
+concurrencykit                                   http://concurrencykit.org/                                                    Apache 2.0
+confuse                                          http://www.nongnu.org/confuse/                                                GPLv2
+connman                                          http://connman.net/                                                           GPLv2
+connman-conf                                     http://connman.net/                                                           GPLv2
+connman-gnome                                    http://connman.net/                                                           GPLv2
+conntrack-tools                                  http://conntrack-tools.netfilter.org/                                         GPL
+console-tools                                    https://packages.qa.debian.org/c/console-tools.html                           GPLv2
+consolekit                                       http://www.freedesktop.org/wiki/Software/ConsoleKit                           GPLv2+
+coreutils-native                                 http://www.gnu.org/software/coreutils/                                        GPLv2
+cpio                                             http://www.gnu.org/software/cpio/                                             GPLv2
+cppunit                                          http://sourceforge.net/projects/cppunit/                                      LGPLv2+
+cpufrequtils                                     http://www.kernel.org/pub/linux/utils/kernel/cpufreq/cpufrequtils.html        GPL
+cracklib                                         http://sourceforge.net/projects/cracklib                                      LGPLv2+
+cracklib-native                                  http://sourceforge.net/projects/cracklib                                      LGPLv2+
+crda                                             http://wireless.kernel.org/en/developers/Regulatory/CRDA                      copyleft-next + ISC license
+createrepo                                       http://createrepo.baseurl.org/                                                GPLv2+
+createrepo-native                                http://createrepo.baseurl.org/                                                GPLv2+
+cronie                                           https://fedorahosted.org/cronie/                                              ISC & BSD
+cross-localedef                                  http://www.gnu.org/software/libc/libc.html                                    LGPLv2.1
+cryptodev-linux                                  http://cryptodev-linux.org/                                                   GPLv2
+cryptodev-module                                 http://cryptodev-linux.org/                                                   GPLv2
+cryptodev-tests                                  http://cryptodev-linux.org/                                                   GPLv2
+cryptsetup                                       http://cryptodev-linux.org/                                                   GPLv2
+cups                                             http://www.cups.org                                                           LGPLv2
+curl                                             http://curl.haxx.se/                                                          The curl license 
+curlpp                                           http://curl.haxx.se/                                                          The curl license 
+cwautomacros                                     http://cwautomacros.berlios.de/                                               GPLv2   
+cwautomacros-native                              http://cwautomacros.berlios.de/                                               GPLv2
+cyrus-sasl                                       http://asg.web.cmu.edu/sasl/                                                  Cyrus SASL
+daemonize                                        http://software.clapper.org/daemonize/                                        GPL
+damageproto                                      http://software.clapper.org/daemonize/                                        GPL
+dante                                            http://www.inet.no/dante/                                                     BSD
+daq                                              http://sourceforge.net/projects/snort/files/snort/                            GPLv2
+db                                               http://www.oracle.com/technology/products/berkeley-db/db/index.html           AGPL-3.0
+dbus                                             http://www.freedesktop.org/Software/dbus                                      AFL-2 | GPLv2+
+dbus-daemon-proxy                                http://www.freedesktop.org/Software/dbus                                      AFL-2 | GPLv2+
+dbus-glib                                        http://www.freedesktop.org/Software/dbus                                      AFL-2 | GPLv2+
+dbus-native                                      http://www.freedesktop.org/Software/dbus                                      AFL-2 | GPLv2+
+dbus-test                                        http://www.freedesktop.org/Software/dbus                                      AFL-2 | GPLv2+
+dbus-wait                                        http://git.yoctoproject.org/cgit/cgit.cgi/dbus-wait                           AFL-2 | GPLv2+
+debianutils                                      https://packages.debian.org/sid/debianutils                                   GPLv2
+dejagnu                                          https://www.gnu.org/software/dejagnu                                          GPL 
+desktop-file-utils-native                        http://www.freedesktop.org/wiki/Software/desktop-file-utils                   GPLv2+
+devicekit-power                                  http://upower.freedesktop.org/                                                GPLv2+ 
+devmem2                                          http://www.lartmaker.nl/lartware/port/                                        GPLv2+
+dfu-util                                         https://github.com/siemens/dfu-util                                           GPLv2 
+dhcp                                             http://www.isc.org/                                                           GPLv2  
+dialog                                           http://www.openwatcom.org/index.php/Dialog_howto                              LGPLv2.1 
+dietsplash                                       RDK                                                                           Unknown
+diffutils                                        http://www.gnu.org/software/diffutils/                                        GPLv3+ 
+digitemp                                         https://wiki.vcu.edu/display/unix/Monitoring+Temperature                      GPLv2+ 
+directfb                                         http://directfb.org                                                           LGPLv2.1  
+directfb-examples                                http://directfb.org                                                           LGPLv2.1
+distcc                                           https://code.google.com/p/distcc/                                             GPLv2 
+dmidecode                                        http://www.nongnu.org/dmidecode/                                              GPLv2 
+dnsmasq                                          http://www.thekelleys.org.uk/dnsmasq/doc.html                                 GPLv2+
+docbook-dsssl-stylesheets-native                 http://docbook.sourceforge.net                                                Docbook license
+docbook-sgml-dtd-3.1-native                      http://www.docbook.org/sgml/                                                  Docbook license
+docbook-sgml-dtd-4.1-native                      http://www.docbook.org/sgml/                                                  Docbook license
+docbook-sgml-dtd-4.5-native                      http://www.docbook.org/sgml/                                                  Docbook license
+docbook-utils-native                             http://www.docbook.org/sgml/                                                  Docbook license
+dosfstools                                       http://daniel-baumann.ch/software/dosfstools/                                 GPLv3
+dovecot                                          http://dovecot.org/                                                           MIT + LGPLv2
+dpkg                                             https://wiki.debian.org/Teams/Dpkg                                            GPLv2+
+dpkg-native                                      https://wiki.debian.org/Teams/Dpkg                                            GPLv2+ 
+dropbear                                         http://matt.ucc.asn.au/dropbear/dropbear.html                                 MIT & BSD-3-Clause & BSD-2-Clause & PD 
+dtc                                              http://devicetree.org/Device_Tree_Compiler                                    GPL
+dvb-apps                                         http://linuxtv.org/downloads/legacy/                                          GPLv2 
+dwarfdump                                        http://wiki.dwarfstd.org/index.php?title=Libdwarf_And_Dwarfdump               GPLv2 or LGPLv2.1
+dwarfdump2                                       http://wiki.dwarfstd.org/index.php?title=Libdwarf_And_Dwarfdump               GPLv2 or LGPLv2.1
+dwarfgen                                         http://wiki.dwarfstd.org/index.php?title=Libdwarf_And_Dwarfdump               GPLv2 or LGPLv2.1
+e2fsprogs                                        http://e2fsprogs.sourceforge.net/                                             GPLv2 & LGPLv2 & BSD & MIT 
+ebtables                                         http://ebtables.netfilter.org/                                                GPLv2
+ed                                               http://www.gnu.org/software/ed/                                               GPLv2
+eee-acpi-scripts                                 http://alioth.debian.org/projects/debian-eeepc/                               GPLv2 
+efibootmgr                                       https://github.com/rhinstaller/efibootmgr                                     GPLv2  
+efivar                                           https://github.com/rhinstaller/efivar                                         LGPLv2.1 
+eglibc                                           http://www.eglibc.org/home                                                    LGPL
+eglibc-initial                                   http://www.eglibc.org/home                                                    LGPL
+eglibc-locale                                    http://www.eglibc.org/home                                                    LGPL
+eglibc-mtrace                                    http://www.eglibc.org/home                                                    LGPL
+eglibc-scripts                                   http://www.eglibc.org/home                                                    LGPL
+eglinfo-fb                                       http://www.eglibc.org/home                                                    LGPL
+eglinfo-x11                                      http://www.eglibc.org/home                                                    LGPL 
+eject                                            http://eject.sourceforge.net/                                                 LGPL 
+elfutils                                         https://fedorahosted.org/elfutils/                                            GPLv3
+enca                                             http://cihar.com/software/enca/                                               GPL
+enchant                                          http://www.abisource.com/projects/enchant/                                    LGPLv2.1+
+encodings                                        http://www.x.org/                                                             PD
+esound                                           http://www.tux.org/~ricdude/overview.html                                     GPLv2
+ethtool                                          http://www.kernel.org/pub/software/network/ethtool/                           GPLv2+
+eventlog                                         http://www.balabit.com/support/community/products/                            BSD
+evtest                                           http://people.freedesktop.org/~whot/evtest/                                   GPLv2
+expect                                           http://sourceforge.net/projects/expect/                                       PD
+external-linaro-toolchain                        https://wiki.linaro.org/WorkingGroups/ToolChain                               EPL
+f2fs-tools                                       http://sourceforge.net/projects/f2fs-tools/                                   GPLv2
+faac                                             http://sourceforge.net/projects/faac/                                         GPLv2 
+faad2                                            http://www.audiocoding.com/faad2.html                                         GPLv2 
+fakeroot-native                                  http://fakeroot.alioth.debian.org/                                            GPLv3 
+farsight2                                        http://farsight.sf.net/                                                       LGPLv2.1
+fb-test                                          http://layers.openembedded.org/layerindex/recipe/26014/                       GPLv2
+fbgrab                                           http://fbgrab.monells.se/                                                     GPLv2
+fbida                                            http://linux.bytesex.org/fbida/                                               GPLv2
+fbset                                            http://layers.openembedded.org/layerindex/recipe/26010/                       GPLv2
+fbset-modes                                      http://layers.openembedded.org/layerindex/recipe/26010/                       GPLv2
+fcgi                                             http://www.fastcgi.com/drupal/                                                Open Market License
+fetchmail                                        http://www.fetchmail.info/                                                    GPL 
+fftw                                             http://www.fftw.org/                                                          GPLv2
+fftw-native                                      http://www.fftw.org/                                                          GPLv2
+fftwf                                            http://www.fftw.org/                                                          GPLv2
+fftwl                                            http://www.fftw.org/                                                          GPLv2
+file                                             http://www.darwinsys.com/file/                                                Custom GPL-like license  
+fim                                              http://www.autistici.org/dezperado/fim/                                       GPLv2
+findutils                                        http://www.gnu.org/software/findutils/                                        GPLv3+
+findutils-native                                 http://www.gnu.org/software/findutils/                                        GPLv3+ 
+fio                                              http://freecode.com/projects/fio                                              GPLv2
+flac                                             http://flac.sourceforge.net/                                                  GFDL-1.2 & GPLv2+ & LGPLv2.1+ & BSD 
+flashrom                                         http://www.flashrom.org/Flashrom                                              GPLv2
+flex                                             http://sourceforge.net/projects/flex/                                         BSD
+flite-alsa                                       http://www.speech.cs.cmu.edu/flite/                                           CMU Flite
+fltk                                             http://www.fltk.org/                                                          LGPLv2 & FLTK
+fontconfig                                       https://www.freedesktop.org/software/fontconfig/                              MIT-style & MIT & PD
+foomatic-filters                                 http://www.openprinting.org/download/foomatic/                                GPL 
+formfactor                                       http://layers.openembedded.org/layerindex/recipe/29287/                       MIT 
+fotowall                                         http://www.enricoros.com/opensource/fotowall/                                 GPLv2
+foxtrotgps                                       http://www.foxtrotgps.org/                                                    GPLv2  
+fping                                            http://fping.org/                                                             fping license 
+freetype                                         http://www.freetype.org/                                                      FreeType | GPLv2+
+freetype-native                                  http://www.freetype.org/                                                      FreeType | GPLv2+
+fribidi                                          http://fribidi.org/                                                           GPLv2+
+fribidi-native                                   http://fribidi.org/                                                           GPLv2+
+fstests                                          http://www.o-hand.com/                                                        zlib license
+fuse                                             http://fuse.sourceforge.net/                                                  GPL2 
+fwts                                             http://kernel.ubuntu.com/git?p=hwe/fwts.git                                   GPL 
+gaku                                             https://github.com/GAKUEngine/gaku                                            GPLv3 and AGPLv3 
+gamin                                            http://ftp.gnome.org/pub/GNOME/sources/gamin/                                 GPL
+gammu                                            http://wammu.eu/gammu/                                                        GPLv2 
+ganglia                                          http://ganglia.sourceforge.net/                                               BSD 
+ganglia-native                                   http://ganglia.sourceforge.net/                                               BSD
+gateone                                          http://liftoffsoftware.com/Products/GateOne                                   gateone license  
+gator                                            git://git.linaro.org/arm/ds5/gator.git                                        GPLv2
+gawk                                             https://www.gnu.org/software/gawk/                                            GPLv2
+gcc-cross                                        http://www.gnu.org/software/gcc/                                              GPL-3.0-with-GCC-exception & GPLv3
+gcc-cross-canadian-i586                          http://www.gnu.org/software/gcc/                                              GPL-3.0-with-GCC-exception & GPLv3
+gcc-cross-initial                                http://www.gnu.org/software/gcc/                                              GPL-3.0-with-GCC-exception & GPLv3
+gcc-crosssdk                                     http://www.gnu.org/software/gcc/                                              GPL-3.0-with-GCC-exception & GPLv3  
+gcc-crosssdk-initial                             http://www.gnu.org/software/gcc/                                              GPL-3.0-with-GCC-exception & GPLv3
+gcc-runtime                                      http://www.gnu.org/software/gcc/                                              GPL-3.0-with-GCC-exception & GPLv3
+gconf                                            http://www.gnome.org/                                                         LGPL
+gd                                               http://libgd.github.io/                                                       gd license
+gdb                                              http://www.gnu.org/software/gdb/                                              GPLv2 & GPLv3 & LGPLv2 & LGPLv3
+gdb-cross                                        http://www.gnu.org/software/gdb/                                              GPLv2 & GPLv3 & LGPLv2 & LGPLv3
+gdb-cross-canadian-i586                          http://www.gnu.org/software/gdb/                                              GPLv2 & GPLv3 & LGPLv2 & LGPLv3
+gdbm                                             http://www.gnu.org/software/gdbm/gdbm.html                                    GPLv3
+gdbm-native                                      http://www.gnu.org/software/gdbm/gdbm.html                                    GPLv3  
+gdk-pixbuf                                       http://www.gtk.org/                                                           LGPLv2
+gdk-pixbuf-native                                http://www.gtk.org/                                                           LGPLv2
+geany                                            http://www.geany.org/                                                         GPL 
+geoclue                                          https://www.freedesktop.org/software/geoclue/                                 GPLv2.0+
+geos                                             http://geoclue.freedesktop.org/                                               LGPL
+gettext                                          http://www.gnu.org/software/gettext/                                          GPL
+gettext-minimal-native                           http://www.gnu.org/software/gettext/                                          GPL
+gettext-native                                   http://www.gnu.org/software/gettext/                                          GPL
+git                                              http://git-scm.com/                                                           GPL2 
+glade3                                           http://glade.gnome.org/                                                       GPL and LGPL
+glew                                             http://glew.sourceforge.net/                                                  BSD and GPL and MIT
+glib-2.0                                         http://ftp.gnome.org/pub/GNOME/sources/glib/                                  LGPLv2+ & BSD & PD 
+glib-2.0-native                                  http://ftp.gnome.org/pub/GNOME/sources/glib/                                  LGPLv2+ & BSD & PD
+glib-networking                                  http://ftp.gnome.org/pub/GNOME/sources/glib-networking/                       LGPLv2
+glibmm                                           http://ftp.gnome.org/pub/GNOME/sources/glibmm/                                LGPL
+glog                                             https://github.com/google/glog                                                glog Google License 
+glproto                                          http://www.x.org/                                                             MIT 
+gmp                                              http://gmplib.org/                                                            GPLv2 | LGPLv3 
+gnokii                                           http://fossies.org/linux/misc/gnokii-0.6.31.tar.gz                            GPL2+
+gnome-common                                     http://ftp.gnome.org/pub/GNOME/sources/gnome-common/                          GPL
+gnome-desktop                                    http://ftp.gnome.org/pub/GNOME/sources/gnome-desktop/                         GPL or LGPL
+gnome-desktop-testing                            http://ftp.gnome.org/pub/GNOME/sources/gnome-desktop-testing/                 GPL or LGPL
+gnome-doc-utils                                  http://ftp.gnome.org/pub/GNOME/sources/gnome-doc-utils/                       GPL or LGPL
+gnome-icon-theme                                 http://ftp.gnome.org/pub/GNOME/sources/gnome-icon-theme/                      GPL or LGPL
+gnome-mime-data                                  http://ftp.gnome.org/pub/GNOME/sources/gnome-mime-data/                       GPL or LGPL
+gnu-config                                       http://layers.openembedded.org/layerindex/recipe/236/                         GPLv2 
+gnu-efi                                          http://sourceforge.net/projects/gnu-efi/                                      GPLv2+ | BSD-2-Clause 
+gnulib                                           git://git.savannah.gnu.org/gnulib.git                                         gnulib license 
+gnupg                                            http://www.gnupg.org/                                                         GPL   
+gnuplot                                          http://www.gnuplot.info/                                                      gnuplot license
+gnutls                                           http://gnutls.org/                                                            GPLv3+ & LGPLv2.1+
+google-breakpad                                  https://code.google.com/p/google-breakpad/                                    New BSD License
+gperf                                            http://www.gnu.org/software/gperf/                                            GPLv3
+gperftools                                       http://code.google.com/p/gperftools/                                          BSD
+gpgme                                            http://www.gnupg.org/related_software/gpgme/                                  LGPL
+gpm                                              http://www.nico.schottelius.org/software/gpm/                                 GPL
+gpsd                                             http://catb.org/gpsd/                                                         BSD 
+gpsd-machine-conf                                http://catb.org/gpsd/                                                         BSD
+grep                                             http://savannah.gnu.org/projects/grep/                                        GPLv3 
+groff                                            ftp://ftp.gnu.org/gnu/groff/                                                  GPLv2
+groff-native                                     ftp://ftp.gnu.org/gnu/groff/                                                  GPLv2
+grub                                             http://www.gnu.org/software/grub/                                             GPLv2+
+grub-efi-native                                  http://www.gnu.org/software/grub/                                             GPLv3 
+gsettings-desktop-schemas                        http://ftp.gnome.org/pub/GNOME/sources/gsettings-desktop-schemas/             GPL
+gsoap                                            http://gsoap2.sourceforge.net/                                                soap license 
+gssdp                                            http://gupnp.org/                                                             LGPL
+gst-ffmpeg                                       http://gstreamer.freedesktop.org/src/gst-ffmpeg                               GPLv2+ & LGPLv2+
+gst-fluendo-mpegdemux                            https://core.fluendo.com/gstreamer/trac/wiki                                  MPLv1.1   
+gst-plugin-bluetooth                             http://www.bluez.org/                                                         GPLv2+ & LGPLv2.1+
+gst-plugins-bad                                  http://cgit.freedesktop.org/gstreamer/gst-plugins-bad/                        GPLv2+ & LGPLv2+ & LGPLv2.1+  
+gst-plugins-base                                 http://ftp.gnome.org/pub/GNOME/sources/gst-plugins-base/                      GPLv2+ & LGPLv2+
+gst-plugins-gl                                   http://gstreamer.freedesktop.org/                                             GPLv2+ & LGPLv2+ & LGPLv2.1+ 
+gst-plugins-good                                 http://ftp.gnome.org/pub/GNOME/sources/gst-plugins-good/                      GPLv2+ & LGPLv2.1+
+gst-plugins-playersinkbin-emulator               RDK                                                                           GPLv2+ & LGPLv2.1+
+gst-plugins-playersinkbin-noop                   RDK                                                                           GPLv2+ & LGPLv2.1+
+gst-plugins-rdk                                  RDK                                                                           GPLv2+ & LGPLv2.1+
+gst-rtsp                                         http://gstreamer.freedesktop.org/                                             GPLv2+ & LGPLv2.1+
+gstqamtunersrc                                   RDK                                                                           GPLv2+ & LGPLv2.1+
+gstreamer                                        http://gstreamer.freedesktop.org/                                             GPLv2+ & LGPLv2.1+
+gstreamer1.0                                     http://gstreamer.freedesktop.org/                                             GPLv2+ & LGPLv2.1+  
+gstreamer1.0-meta-base                           http://gstreamer.freedesktop.org/                                             GPLv2+ & LGPLv2.1+
+gstreamer1.0-plugins-bad                         http://gstreamer.freedesktop.org/                                             GPLv2+ & LGPLv2.1+
+gstreamer1.0-plugins-base                        http://gstreamer.freedesktop.org/                                             GPLv2+ & LGPLv2.1+
+gstreamer1.0-plugins-good                        http://gstreamer.freedesktop.org/                                             GPLv2+ & LGPLv2.1+
+gtk+                                             http://www.gtk.org/                                                           LGPLv2 & LGPLv2+ & LGPLv2.1+
+gtk+3                                            http://www.gtk.org/                                                           LGPLv2 & LGPLv2+ & LGPLv2.1+
+gtk-doc-stub                                     https://github.com/GNOME/gtk-doc-stub                                         GPLv2
+gtk-doc-stub-native                              https://github.com/GNOME/gtk-doc-stub                                         GPLv2 
+gtk-engines                                      http://www.gnome.org/                                                         LGPLv2.1
+gtk-sato-engine                                  http://layers.openembedded.org/layerindex/recipe/667/                         LGPLv2.1 & LGPLv2+
+gtk-theme-torturer                               http://wiki.laptop.org/go/GTK_for_OLPC                                        GPLv2 
+gtk-update-icon-cache-native                     http://layers.openembedded.org/layerindex/recipe/692/                         LGPLv2 & LGPLv2+ & LGPLv2.1+ 
+gtkextra                                         http://gtkextra.sourceforge.net/cms/                                          LGPL 
+gtkhtml2                                         https://www.openhub.net/p/gtkhtml2                                            GPL2
+gtkmm                                            http://www.gtkmm.org/en/                                                      LGPL 
+gtkperf                                          http://gtkperf.sourceforge.net/                                               GPL 
+guile-native                                     http://www.gnu.org/software/guile/                                            GPL 
+guilt-native                                     http://www.gnu.org/software/guile/                                            GPL 
+gummiboot                                        git://anongit.freedesktop.org/gummiboot                                       LGPLv2.1+ 
+gupnp                                            http://ftp.gnome.org/pub/GNOME/sources/gupnp/                                 GPLv2+
+gupnp-av                                         http://ftp.gnome.org/pub/GNOME/sources/gupnp-av/                              GPLv2+ 
+gupnp-dlna                                       http://ftp.gnome.org/pub/GNOME/sources/gupnp-dlna/                            GPLv2+
+gupnp-igd                                        http://ftp.gnome.org/pub/GNOME/sources/gupnp-igd/                             GPLv2+
+gupnp-tools                                      http://ftp.gnome.org/pub/GNOME/sources/gupnp-tools/                           GPLv2+
+gypsy                                            http://www.gnu.org/software/gzip/                                             GPLv2+
+gzip                                             https://ftp.gnu.org/gnu/gzip/                                                 GPLv2+
+gzip-native                                      https://ftp.gnu.org/gnu/gzip/                                                 GPLv2+
+hddtemp                                          https://savannah.nongnu.org/projects/hddtemp/                                 GPL
+hdparm                                           http://hdparm.sourceforge.net/                                                BSD  
+help2man-native                                  https://ftp.gnu.org/gnu/help2man/                                             GPLv2+
+hexedit                                          http://rigaux.org/hexedit.html                                                GPL 
+hicolor-icon-theme                               http://icon-theme.freedesktop.org/wiki/HicolorTheme                           GPLv2
+hostap-conf                                      http://recipes.yoctoproject.org/rrs/recipedetail/12/                          GPLv2 
+hostap-daemon                                    http://w1.fi/hostapd/                                                         GPLv2  
+hostap-utils                                     http://hostap.epitest.fi/                                                     GPLv2             
+hplip                                            http://sourceforge.net/projects/hplip/                                        GPLv2            
+htop                                             http://htop.sf.net/                                                           GPLv2
+hwlatdetect                                      http://git.kernel.org/?p=linux/kernel/git/clrkwllms/rt-tests.git              GPLv2
+i2c-tools                                        http://dl.lm-sensors.org/i2c-tools/releases/i2c-tools-3.1.1.tar.bz2           GPLv2
+icecc-create-env-native                          http://layers.openembedded.org/layerindex/recipe/29253/                       GPLv2           
+icon-naming-utils                                http://layers.openembedded.org/layerindex/recipe/29199/                       GPLv2           
+icon-naming-utils-native                         http://layers.openembedded.org/layerindex/recipe/29199/                       GPLv2
+icon-slicer                                      https://www.freedesktop.org/software/icon-slicer/                             Red Hat License
+icu                                              http://site.icu-project.org/                                                  ICU License
+id3lib                                           http://id3lib.sourceforge.net/                                                LGPL           
+iftop                                            http://www.ex-parrot.com/~pdw/iftop/                                          GPL
+iksemel                                          http://iksemel.googlecode.com/                                                LGPLv2.1
+imagemagick                                      http://www.imagemagick.org/                                                   ImageMagick license
+init-ifupdown                                    http://packages.debian.org/ifupdown                                           GPLv2 
+initscripts                                      http://layers.openembedded.org/layerindex/recipe/29382/                       GPLv2
+inputproto                                       http://www.x.org/                                                             MIT & MIT-style
+insserv                                          http://layers.openembedded.org/layerindex/recipe/29166/                       GPLv2+
+intltool                                         http://ftp.gnome.org/pub/GNOME/sources/intltool/                              GPLv2+
+iotop                                            http://guichaz.free.fr/iotop/                                                 GPLv2+
+iozone3                                          http://www.iozone.org/                                                        iozone3
+iperf                                            http://iperf.sourceforge.net/                                                 BSD
+iproute2                                         http://www.linuxfoundation.org/collaborate/workgroups/networking/             GPLv2
+ipsec-tools                                      http://ipsec-tools.sourceforge.net/                                           BSD revised
+iptables                                         http://www.netfilter.org/                                                     BSD
+iputils                                          https://github.com/iputils/iputils                                            GPLv2
+irda-utils                                       http://irda.sourceforge.net/                                                  GPLv2 
+irssi                                            http://www.irssi.org/                                                         GPLv2
+iso-codes                                        http://pkg-isocodes.alioth.debian.org/                                        LGPLv2.1
+iw                                               https://wireless.wiki.kernel.org/en/users/Documentation/iw                    GPLv2+
+jack                                             http://layers.openembedded.org/layerindex/recipe/29944/                       GPLv2 & LGPLv2.1 
+joe                                              http://joe-editor.sourceforge.net/                                            GPL
+jpeg                                             http://www.ijg.org/                                                           BSD-3-Clause
+json-glib                                        http://ftp.gnome.org/pub/GNOME/sources/json-glib/                             GPLv2+
+jsoncpp                                          https://github.com/open-source-parsers/jsoncpp                                MIT | Public Domain
+jsonrpc                                          https://github.com/open-source-parsers/jsoncpp                                Public Domain 
+kbd                                              https://github.com/pld-linux/kbd                                              GPLv2+
+kconfig-frontends                                http://ymorin.is-a-geek.org/projects/kconfig-frontends                        GPLv2
+kern-tools-native                                http://layers.openembedded.org/layerindex/recipe/29880/                       GPLv2
+kernelshark                                      http://layers.openembedded.org/layerindex/recipe/29904/                       GPLv2
+kexec-tools                                      http://kernel.org/pub/linux/utils/kernel/kexec/                               GPLv2
+keymaps                                          http://layers.openembedded.org/layerindex/recipe/29285/                       GPLv2
+keyutil                                          http://www.kernel.org/                                                        GPL2 and LGPL2.1 
+kmod                                             http://git.kernel.org/cgit/utils/kernel/kmod/kmod.git                         LGPLv2.1   
+krb5                                             http://ftp.gnome.org/pub/GNOME/sources/krb5-auth-dialog/                      GPLv2+
+ktap                                             https://aur.archlinux.org/packages/ktap-git/                                  GPL
+ktap-module                                      https://aur.archlinux.org/packages/ktap-git/                                  GPL
+latency-test                                     http://www.gardena.net/benno/linux/audio/                                     GPL
+latencytop                                       http://git.infradead.org/latencytop.git                                       GPLv2
+lcdproc                                          http://www.lcdproc.org/                                                       GPLv2+
+leafpad                                          http://tarot.freeshell.org/leafpad/                                           GPLv2+
+lemon                                            http://www.hwaci.com/sw/lemon/                                                PD 
+lemon-native                                     http://www.hwaci.com/sw/lemon/                                                PD
+less                                             https://ftp.gnu.org/gnu/less/                                                 GPLv2+
+liba52                                           http://liba52.sourceforge.net/                                                GPLv2+  
+libaio                                           http://lse.sourceforge.net/io/aio.html                                        LGPLv2.1+
+libao                                            http://xiph.org/ao/                                                           GPL
+libarchive                                       http://www.libarchive.org/                                                    BSD 
+libart-lgpl                                      http://www.levien.com/libart/                                                 LGPL 
+libass                                           https://github.com/libass/libass/                                             BSD
+libassuan                                        http://www.gnupg.org/related_software/libassuan/                              GPLv3 & LGPLv2.1+
+libatasmart                                      http://0pointer.de/blog/projects/being-smart.html                             LGPL
+libatomics-ops                                   http://www.hpl.hp.com/research/linux/atomic_ops/                              GPLv2 & MIT
+libav                                            http://libav.org/                                                             GPLv2+
+libavffmpeg                                      http://libav.org/                                                             GPLv2+
+libcanberra                                      http://0pointer.de/lennart/projects/libcanberra                               LPGL
+libcap                                           http://sites.google.com/site/fullycapable/                                    BSD or GPLv2
+libcap-native                                    http://sites.google.com/site/fullycapable/                                    BSD or GPLv2
+libcec                                           https://github.com/Pulse-Eight/libcec                                         GPLv2+
+libcgroup                                        http://libcg.sourceforge.net/                                                 LGPL
+libcheck                                         http://check.sourceforge.net/                                                 LGPLv2+
+libclass-isa-perl                                http://search.cpan.org/dist/Class-ISA/                                        Artistic-1.0 | GPL-1.0+
+libconfig                                        http://www.hyperrealm.com/main.php?s=libconfig                                LGPLv2.1
+libconvert-asn1-perl                             http://packages.ubuntu.com/trusty/libconvert-asn1-perl                        Artistic-1.0 | GPL-1.0+
+libcroco                                         http://ftp.gnome.org/pub/GNOME/sources/libcroco/                              GPLv2+
+libdaemon                                        http://0pointer.de/lennart/projects/libdaemon/                                LGPLv2.1+  
+libdbi                                           http://libdbi.sourceforge.net/                                                LGPL  
+libdbi-drivers                                   http://libdbi-drivers.sourceforge.net/                                        GPL
+libdc1394                                        http://sourceforge.net/projects/libdc1394/                                    LGPL      
+libdivecomputer                                  http://www.libdivecomputer.org/releases/libdivecomputer-0.1.0.tar.gz          LGPL  
+libdnet                                          http://libdnet.sourceforge.net/                                               BSD 
+libdumpvalue-perl                                http://search.cpan.org/~flora/Dumpvalue/                                      Artistic-1.0 | GPL-1.0+
+libdvdcss                                        http://www.videolan.org/libdvdcss                                             GPL
+libdvdread                                       http://dvdnav.mplayerhq.hu/                                                   GPL
+libdwarf                                         http://www.prevanders.net/dwarf.html                                          GPL and LGPL
+libebml                                          http://dl.matroska.org/downloads/libebml/                                     LGPL
+libedit                                          http://www.thrysoee.dk/editline/                                              BSD
+libeigen                                         http://eigen.tuxfamily.org/                                                   MPL2.0
+libenv-perl                                      http://search.cpan.org/~flora/Env/                                            Artistic-1.0 | GPL-1.0+
+liberation-fonts                                 https://fedorahosted.org/liberation-fonts/                                    GPLv2
+libestr                                          http://libestr.adiscon.com/                                                   LGPLv2.1
+libetpan                                         http://www.etpan.org/libetpan.html                                            etpan_license
+libevent                                         http://www.monkey.org/~provos/libevent/                                       GPLv2
+libevent-fb                                      http://www.monkey.org/~provos/libevent/                                       GPLv2
+libexif                                          http://sourceforge.net/projects/libexif                                       LGPL
+libfakekey                                       http://matchbox-project.org/                                                  LGPLv2.1+   
+libfile-checktree-perl                           http://search.cpan.org/~flora/File-CheckTree/                                 Artistic-1.0 | GPL-1.0+  
+libfm                                            http://pcmanfm.sourceforge.net/                                               GPLv2 and GPLv2+ 
+libftdi                                          http://www.intra2net.com/en/developer/libftdi/download.php                    GPL2 and LGPL2.1
+libgc                                            https://github.com/ivmai/bdwgc.git                                            MIT-style and GPL
+libgcc                                           http://www.gnu.org/software/gcc/                                              GPL-3.0-with-GCC-exception & GPLv3
+libgcrypt                                        http://www.gnupg.org/                                                         LGPL 
+libgee                                           http://ftp.gnome.org/pub/GNOME/sources/libgee/                                GPLv2+
+libglade                                         http://ftp.gnome.org/pub/GNOME/sources/libglade/                              GPLv2+
+libgpg-error                                     http://www.gnupg.org/related_software/libgpg-error/                           GPLv2+ & LGPLv2.1+
+libgphoto2                                       http://www.gphoto.org/                                                        LGPL
+libi18n-collate-perl                             http://search.cpan.org/~flora/I18N-Collate/                                   Artistic-1.0 | GPL-1.0+
+libical                                          http://ftp.gnome.org/pub/GNOME/sources/libical-glib/                          GPLv2+
+libid3tag                                        http://sourceforge.net/projects/mad/                                          GPLv2+
+libidn                                           https://ftp.gnu.org/gnu/libidn/                                               GPLv2+
+libinih                                          http://sourceforge.net/projects/libini/                                       GPLv2 
+libio-pty-perl                                   https://packages.debian.org/squeeze/libio-pty-perl                            Artistic-1.0 | GPL-1.0+ 
+libjpeg-turbo                                    http://libjpeg-turbo.virtualgl.org/                                           BSD                                               
+libksba                                          https://www.gnupg.org/related_software/libksba/                               GPL                                  
+liblinebreak                                     http://vimgadgets.sourceforge.net/liblinebreak/                               zlib license
+liblockfile                                      ftp://ftp.debian.org/debian/pool/main/libl/liblockfile/                       LGPL
+libmatchbox                                      http://matchbox-project.org/                                                  LGPL   
+libmatroska                                      http://dl.matroska.org/downloads/libmatroska/                                 LGPL 
+libmcrypt                                        http://mcrypt.sourceforge.net/                                                GPLv2 
+libmemcached                                     http://libmemcached.org/libMemcached.html                                     BSD 
+libmicrohttpd                                    https://ftp.gnu.org/gnu/libmicrohttpd/                                        GPLv2+
+libmikmod                                        http://mikmod.sourceforge.net/                                                GPL and LGPL
+libmms                                           http://sourceforge.net/projects/libmms/                                       LGPL 
+libmnl                                           http://www.netfilter.org/projects/libmnl/                                     LGPLv2.1 
+libmodbus                                        http://libmodbus.org/                                                         LGPLv2.1 
+libmodplug                                       http://modplug-xmms.sourceforge.net/                                          GPL                                                
+libmpc                                           http://www.multiprecision.org/                                                LGPLv3 
+libmpd                                           http://www.musicpd.org/                                                       GPLv2  
+libmtp                                           http://libmtp.sourceforge.net/                                                LGPL 
+libmusicbrainz                                   https://musicbrainz.org/doc/libmusicbrainz                                    LGPLv2.1        
+libnet                                           http://sourceforge.net/projects/libnet-dev/                                   BSD 
+libnetfilter-conntrack                           http://www.netfilter.org/projects/libnetfilter_conntrack/                     GPL 
+libnetfilter-cthelper                            http://www.netfilter.org/projects/libnetfilter_cthelper/                      GPLv2 
+libnetfilter-cttimeout                           http://www.netfilter.org/projects/libnetfilter_cttimeout/                     GPLv2 
+libnetfilter-log                                 http://www.netfilter.org/projects/libnetfilter_log/                           GPL 
+libnetfilter-queue                               http://www.netfilter.org/projects/libnetfilter_queue/                         GPL 
+libnewt                                          https://fedorahosted.org/newt/                                                GPL
+libnewt-python                                   https://fedorahosted.org/newt/                                                GPL
+libnfnetlink                                     http://www.netfilter.org/projects/libnfnetlink/index.html                     GPLv2  
+libnfsidmap                                      http://www.citi.umich.edu/projects/nfsv4/linux/                               BSD   
+libnice                                          http://nice.freedesktop.org/releases/                                         LGPL   
+libnl                                            http://www.infradead.org/~tgr/libnl/                                          LGPLv2.1 
+libnotify                                        http://ftp.gnome.org/pub/GNOME/sources/libnotify/                             GPLv2+
+libnss-mdns                                      http://0pointer.de/lennart/projects/nss-mdns/                                 LGPLv2.1+  
+liboauth                                         http://liboauth.sourceforge.net/                                              MIT and GPLv2
+libogg                                           http://xiph.org/                                                              BSD  
+liboil                                           http://liboil.freedesktop.org/wiki/                                           LGPL
+libol                                            http://www.t2-project.org/packages/libol.html                                 GPLv2
+libomxffmpegdist                                 http://sourceforge.net/projects/omxil/files/components/                       LGPLv2.1  
+libopus                                          http://sourceforge.net/projects/libopus/                                      GPLv2  
+libotr                                           https://otr.cypherpunks.ca/                                                   GPL and LGPL 
+libpam                                           https://github.com/google/google-authenticator/                               Apache License 2.0  
+libpcap                                          http://www.tcpdump.org/                                                       BSD 
+libpciaccess                                     http://www.x.org/                                                             MIT and MIT-style 
+libpcre                                          http://www.pcre.org/                                                          BSD 
+libplist                                         http://www.libimobiledevice.org/                                              GPL 
+libpng                                           http://www.libpng.org/                                                        png_license 
+libpng12                                         http://www.libpng.org/                                                        png_license
+libpod-plainer-perl                              http://search.cpan.org/dist/Pod-Plainer/                                      Artistic-1.0 and GPL-1.0+  
+libpod-plainer-perl-native                       http://search.cpan.org/dist/Pod-Plainer/                                      Artistic-1.0 and GPL-1.0+
+libpostproc                                      http://git.videolan.org/?p=libpostproc.git;a=summary                          GPLv2+
+libproxy                                         http://code.google.com/p/libproxy/                                            LGPL2.1+ 
+libqjson-e                                       http://qjson.sourceforge.net/                                                 LGPLv2.1                                
+libqofono                                        https://github.com/nemomobile/libqofono                                       Apache License 2.0 
+libraw1394                                       https://ieee1394.wiki.kernel.org/index.php/Libraries#libraw1394               LGPL2.1 
+librsvg                                          http://ftp.gnome.org/pub/GNOME/sources/librsvg/                               GPLv2+
+libsamplerate0                                   http://www.mega-nerd.com/SRC/                                                 GPLv2+
+libsdl                                           http://www.libsdl.org/                                                        LGPLv2.1 
+libsdl-image                                     http://www.libsdl.org/                                                        LGPLv2.1
+libsdl-mixer                                     http://www.libsdl.org/                                                        LGPLv2.1
+libsdl-ttf                                       http://www.libsdl.org/                                                        LGPLv2.1
+libsdl2                                          http://www.libsdl.org/                                                        LGPLv2.1
+libsexy                                          http://packages.ubuntu.com/lucid/libsexy-dev                                  GPL  
+libsigc++-2.0                                    http://libsigc.sourceforge.net/                                               LGPL 
+libsmi                                           http://www.ibr.cs.tu-bs.de/projects/libsmi/                                   libsml_license   
+libsndfile1                                      http://www.mega-nerd.com/libsndfile/                                          LGPL
+libsoc                                           https://github.com/jackmitch/libsoc.git                                       LGPLv2.1+ 
+libsocketcan                                     http://www.pengutronix.de/software/libsocketcan/download/                     LGPLv2  
+libsoup-2.4                                      http://ftp.gnome.org/pub/gnome/sources/libsoup/2.50/libsoup-2.50.0.tar.xz     GPLv2+ 
+libspatialite                                    https://www.gaia-gis.it/fossil/libspatialite/                                 MPLv1.1 GPLv2+ LGPLv2.1+ 
+libssh                                           http://www.libssh.org/                                                        LGPLv2.1        
+libsyncml                                        https://libsyncml.opensync.org/                                               LGPLv2.1 
+libtasn1                                         https://ftp.gnu.org/gnu/libtasn1/                                             GPLv2+
+libtelepathy                                     http://telepathy.freedesktop.org/wiki/                                        LGPLv2.1+  
+libtheora                                        http://xiph.org/                                                              BSD 
+libtimedate-perl                                 https://packages.debian.org/source/sid/libtimedate-perl                       Artistic-1.0 | GPL-1.0+ 
+libtinyxml                                       http://www.sourceforge.net/projects/tinyxml                                   zlib license 
+libtirpc                                         http://sourceforge.net/projects/libtirpc/                                     BSD 
+libtool                                          https://ftp.gnu.org/gnu/libtool/                                              GPLv2+
+libtool-cross                                    https://ftp.gnu.org/gnu/libtool/                                              GPLv2+ 
+libtorrent                                       http://libtorrent.rakshasa.no/                                                GPLv2  
+libuio                                           http://sourceforge.net/projects/libuio/                                       GPL2 
+libungif                                         http://sourceforge.net/projects/giflib/                                       GPL
+libunique                                        http://ftp.gnome.org/pub/GNOME/sources/libunique/                             GPLv2+
+liburcu                                          http://urcu.so/                                                               LGPLv2.1 
+liburi-perl                                      https://packages.debian.org/source/sid/liburi-perl                            Artistic or GPL-1.0+
+libusb-compat                                    http://www.libusb.org/                                                        LGPLv2.1+ 
+libusb1                                          http://libusb.sf.net/                                                         LGPLv2.1+ 
+libusbg                                          http://layers.openembedded.org/layerindex/recipe/30087/                       GPLv2 & LGPLv2.1 
+libuser                                          https://fedorahosted.org/libuser/                                             LGPLv2 
+libvorbis                                        http://www.vorbis.com/                                                        BSD 
+libvpx                                           http://www.webmproject.org/code/                                              BSD 
+libwmf                                           http://wvware.sourceforge.net/libwmf.html                                     GPLv2 
+libxcb                                           http://xcb.freedesktop.org/                                                   MIT
+libxkbcommon                                     http://xcb.freedesktop.org/                                                   MIT
+libxml++                                         http://ftp.gnome.org/pub/GNOME/sources/libxml++/                              GPLv2+ 
+libxml-namespacesupport-perl                     https://pkg-perl.alioth.debian.org/                                           Artistic-1.0 | GPL-1.0+
+libxml-parser-perl                               https://pkg-perl.alioth.debian.org/                                           Artistic-1.0 | GPL-1.0+
+libxml-perl                                      https://pkg-perl.alioth.debian.org/                                           Artistic-1.0 | GPL-1.0+
+libxml-sax-base-perl                             https://pkg-perl.alioth.debian.org/                                           Artistic-1.0 | GPL-1.0+
+libxml-sax-perl                                  https://pkg-perl.alioth.debian.org/                                           Artistic-1.0 | GPL-1.0+
+libxml-simple-perl                               https://pkg-perl.alioth.debian.org/                                           Artistic-1.0 | GPL-1.0+
+lighttpd                                         http://www.lighttpd.net/                                                      BSD
+linaro-samplemedia                               http://samplemedia.linaro.org/                                                Creative Commons Attribution 3.0
+links                                            http://links.twibright.com/                                                   GPLv2 
+links-x11                                        http://links.twibright.com/                                                   GPLv2
+linux-dummy                                      http://layers.openembedded.org/layerindex/recipe/29874/                       GPLv2
+linux-fusion                                     http://directfb.org (discontinued)                                            GPL
+linux-libc-headers                               http://layers.openembedded.org/layerindex/recipe/29888/                       GPLv2  
+linux-yocto                                      http://recipes.yoctoproject.org/rrs/recipedetail/676/                         GPLv2  
+linux-yocto-rt                                   http://recipes.yoctoproject.org/rrs/recipedetail/672/                         GPLv2       
+linux-yocto-tiny                                 http://recipes.yoctoproject.org/rrs/recipedetail/674/                         GPLv2      
+linuxdoc-tools-native                            http://packages.debian.org/linuxdoc-tools                                     GPLv3+
+linuxptp                                         http://layers.openembedded.org/layerindex/recipe/30029/                       GPLv2
+lio-utils                                        http://linux-iscsi.org/index.php/Lio-utils                                    GPLv2   
+llvm-common                                      http://llvm.org/                                                              llvm license
+llvm2.8                                          http://llvm.org/                                                              llvm license
+llvm2.9                                          http://llvm.org/                                                              llvm license
+llvm3.3                                          http://llvm.org/                                                              llvm license
+lmbench                                          http://lmbench.sourceforge.net/                                               GPLv2 & GPL-2.0-with-lmbench-restriction
+lmsensors                                        http://www.lm-sensors.org/                                                    GPLv2+ & LGPLv2.1+
+lockdev                                          http://packages.qa.debian.org/l/lockdev.html                                  GPL    
+log4c                                            http://log4c.sourceforge.net/                                                 LGPLv2
+log4cplus                                        http://sourceforge.net/projects/log4cplus/                                    Apache-2.0 and BSD-2-Clause
+logrotate                                        https://fedorahosted.org/logrotate/                                           GPLv2
+loudmouth                                        http://ftp.gnome.org/pub/GNOME/sources/loudmouth/                             GPLv2+
+lowpan-tools                                     RDK                                                                           GPLv2+    
+lrzsz                                            https://ohse.de/uwe/software/lrzsz.html                                       GPLv2+
+lsb                                              http://prdownloads.sourceforge.net/lsb                                        GPLv2+ 
+lsbinitscripts                                   http://layers.openembedded.org/layerindex/recipe/29552/                       GPLv2+  
+lsbtest                                          http://prdownloads.sourceforge.net/lsb                                        GPLv2+
+lshw                                             https://github.com/lyonel/lshw.git                                            GPLv2+ 
+lsof                                             http://people.freebsd.org/~abe/                                               lsof_license
+ltp                                              http://ltp.sourceforge.net/                                                   GPLv2 & GPLv2+ & LGPLv2+ & LGPLv2.1+ & BSD-2-Clause 
+ltp-ddt                                          http://ltp.sourceforge.net/                                                   GPLv2 & GPLv2+ & LGPLv2+ & LGPLv2.1+ & BSD-2-Clause
+ltrace                                           http://ltrace.alioth.debian.org/                                              GPL    
+lttng-modules                                    http://lttng.org/download/                                                    LTTng modules license    
+lttng-tools                                      http://lttng.org/download/                                                    LTTng tools license 
+lttng-ust                                        http://lttng.org/download/                                                    LTTng ust license
+lvm2                                             http://sourceware.org/lvm2/                                                   GPL2 and LGPL2.1
+lz4                                              https://code.google.com/p/lz4/                                                GPL2 
+lzip                                             http://www.icewalkers.com/download/lzip-3855.html                             GPL
+lzma                                             http://sourceforge.net/p/sevenzip/wiki/Home/                                  LZMA license 
+lzo                                              http://www.oberhumer.com/opensource/lzo/                                      GPL 
+lzop                                             http://www.lzop.org/                                                          GPL  
+m4                                               https://ftp.gnu.org/gnu/m4/                                                   GPLv2+
+macchanger                                       http://ftp.snt.utwente.nl/pub/software/gnu/macchanger/                        GPLv2+
+mailx                                            http://heirloom.sourceforge.net/mailx.html                                    BSD & MPL-1 
+make                                             https://ftp.gnu.org/gnu/make/                                                 GPLv2+
+maliit-framework                                 https://github.com/maliit/framework                                           GPLv2 and BSD
+maliit-framework-qt5                             https://github.com/maliit/framework                                           GPLv2 and BSD
+maliit-plugins                                   https://github.com/maliit/framework                                           GPLv2 and BSD
+maliit-plugins-qt5                               https://github.com/maliit/framework                                           GPLv2 and BSD
+man                                              http://primates.ximian.com/~flucifredi/man                                    GPLv2
+man-pages                                        http://primates.ximian.com/~flucifredi/man                                    GPLv2
+mariadb                                          http://mariadb.org/                                                           GPLv2
+matchbox-config-gtk                              http://matchbox-project.org/                                                  GPLv2+
+matchbox-desktop                                 http://matchbox-project.org/                                                  GPLv2+
+matchbox-desktop-sato                            http://matchbox-project.org/                                                  GPLv2+
+matchbox-keyboard                                http://matchbox-project.org/                                                  GPLv2+
+matchbox-panel-2                                 http://matchbox-project.org/                                                  GPLv2+
+matchbox-session                                 http://matchbox-project.org/                                                  GPLv2+
+matchbox-session-sato                            http://matchbox-project.org/                                                  GPLv2+
+matchbox-terminal                                http://matchbox-project.org/                                                  GPLv2+
+matchbox-theme-sato                              http://matchbox-project.org/                                                  GPLv2+
+matchbox-wm                                      http://matchbox-project.org/                                                  GPLv2+
+mc                                               https://ftp.gnu.org/gnu/mc/                                                   GPLv2+
+mcpp                                             http://mcpp.sourceforge.net/                                                  BSD 
+mdadm                                            http://neil.brown.name/blog/mdadm                                             GPL
+memcached                                        http://memcached.org/                                                         GPL 
+memtester                                        http://pyropus.ca/software/memtester/                                         GPLv2
+menu-cache                                       http://lxde.sourceforge.net/                                                  GPLv2 & GPLv2+
+mg                                               http://homepage.boetes.org/software/mg/                                       Public Domain
+midori                                           http://www.midori-browser.org/                                                GPLv2+ 
+mime-support                                     https://packages.debian.org/squeeze/mime-support                              Public Domain
+mingetty                                         http://sourceforge.net/projects/mingetty/                                     GPLv2
+mini-iconv                                       http://tinderbox.dev.gentoo.org/portage/local/misc/mini-iconv/                MPL-1.1 
+mini-x-session                                   http://www.yoctoproject.org/                                                  GPLv2 
+minicom                                          https://alioth.debian.org/projects/minicom                                    GPL
+mkelfimage                                       http://www.coreboot.org/Mkelfimage                                            GPLv2    
+mklibs-native                                    https://launchpad.net/mklibs                                                  GPLv2+
+mktemp                                           http://www.mktemp.org/                                                        ISC
+mkvtoolnix                                       https://bunkus.org/videotools/mkvtoolnix/                                     GPLv2
+mm-common                                        https://github.com/GNOME/mm-common                                            GPL
+mm-common-native                                 https://github.com/GNOME/mm-common                                            GPL
+mmc-utils                                        http://git.kernel.org/cgit/linux/kernel/git/cjb/mmc-utils.git/                GPLv2
+modemmanager                                     http://www.freedesktop.org/software/ModemManager/                             GPLv2
+modutils-initscripts                             http://layers.openembedded.org/layerindex/recipe/29901/                       PD
+mongodb                                          https://www.mongodb.org/                                                      GPLv3 
+mongoose                                         https://github.com/cesanta/mongoose                                           GPLv2
+mozjs                                            http://www.mozilla.org/js/spidermonkey/                                       MPL and GPL and LGPL
+mpd                                              http://www.musicpd.org/news/2013/10/mpd-0-dot-18-released/                    GPL 
+mpfr-native                                      http://www.mpfr.org/                                                          LGPL
+mpg123                                           http://mpg123.de/                                                             LGPLv2.1
+mtd-utils                                        http://www.linux-mtd.infradead.org/                                           GPLv2+      
+mtools                                           https://ftp.gnu.org/gnu/mtools/                                               GPLv2+
+mtr                                              http://www.bitwizard.nl/mtr/                                                  GPL  
+multipath-tools                                  https://packages.debian.org/source/wheezy/multipath-tools                     GPLv2
+zsh                                              http://www.zsh.org/                                                           GPLv2
+mx-1.0                                           http://sourceforge.net/projects/mysql-python                                  GPLv2      
+mysql-python                                     http://www.nano-editor.org/                                                   GPLv2
+nano                                             https://ftp.gnu.org/gnu/nano/                                                 GPLv2+
+nasm                                             http://www.nasm.us/                                                           BSD  
+navit                                            http://www.navit-project.org/                                                 GPL
+nbench-byte                                      http://www.tux.org/~mayer/linux/bmark.html                                    nbench_license
+ncurses                                          https://ftp.gnu.org/gnu/ncurses/                                              GPLv2+
+ndisc6                                           http://www.remlab.net/ndisc6/                                                 GPLv2+ 
+neard                                            https://01.org/linux-nfc/                                                     LGPL 
+neon                                             http://www.webdav.org/neon/                                                   LGPLv2+ 
+net-snmp                                         http://www.net-snmp.org/                                                      BSD 
+net-tools                                        http://www.net-snmp.org/                                                      BSD
+netbase                                          http://packages.debian.org/netbase                                            GPLv2
+netcat                                           http://netcat.sourceforge.net/                                                GPLv2+
+netcat-openbsd                                   http://netcat.sourceforge.net/                                                GPLv2+
+netcf                                            https://fedorahosted.org/netcf/                                               LGPLv2.1
+networkmanager                                   https://wiki.gnome.org/Projects/NetworkManager                                GPLv2+ 
+nfs-utils                                        http://nfs.sourceforge.net/                                                   MIT & GPLv2+ & BSD 
+nodejs                                           http://nodejs.org/                                                            MIT & BSD
+nodejs4                                          http://nodejs.org/                                                            MIT & BSD
+nspr                                             http://www.mozilla.org/projects/nspr/                                         GPL-2.0 | MPL-2.0 | LGPL-2.1
+nss                                              http://www.mozilla.org/projects/security/pki/nss/                             MPL-2.0 | (MPL-2.0 & GPL-2.0+) | (MPL-2.0 & LGPL-2.1+)
+nss-myhostname                                   http://www.mozilla.org/projects/security/pki/nss/                             MPL-2.0 | (MPL-2.0 & GPL-2.0+) | (MPL-2.0 & LGPL-2.1+)
+ntfs-3g-ntfsprogs                                http://www.tuxera.com/community/ntfs-3g-download/                             GPLv2+ 
+ntp                                              http://www.ntp.org                                                            ntp_license
+numlockx                                         http://packages.ubuntu.com/lucid/numlockx                                     Open Source
+nuttcp                                           https://packages.debian.org/sid/nuttcp                                        GPL 
+obex-data-server                                 http://www.bluez.org/                                                         GPLv2+
+obexftp                                          http://ftp.gnome.org/pub/GNOME/sources/gnome-vfs-obexftp/                     GPLv2+
+ode                                              http://www.ode.org/                                                           LGPLv2.1 & BSD 
+odp                                              RDK                                                                           Unknown
+ofono                                            http://www.ofono.org/                                                         GPLv2 
+oh-puzzles                                       RDK                                                                           Unknown 
+omgps                                            http://omgps.sourceforge.net/                                                 GPLv2
+onig                                             http://ftp.iinet.net.au/pub/FreeBSD/distfiles/ruby/onig-5.9.3.tar.gz          onig_license 
+open-vcdiff                                      https://code.google.com/p/open-vcdiff/                                        Apache License 2.0
+openal-soft                                      https://github.com/kcat/openal-soft                                           LGPL
+openbox                                          http://openbox.org/wiki/Main_Page                                             GPLv2+ 
+opencv                                           http://opencv.org/                                                            BSD      
+opencv-samples                                   http://opencv.org/                                                            BSD
+openflow                                         http://archive.openflow.org/wp/develop/                                       openflow_license 
+openjade                                         http://openjade.sourceforge.net/                                              BSD
+openldap                                         http://www.openldap.org                                                       openldap_license
+openmotif                                        http://motif.ics.com/                                                         LGPLv2.1
+openobex                                         http://dev.zuckschwerdt.org/openobex/                                         LGPL
+opensp                                           https://tracker.debian.org/pkg/opensp                                         GPLv2+
+openssh                                          http://www.openssh.com/                                                       BSD
+openssl                                          http://www.openssl.org/                                                       openssl_license
+openssl-0.9                                      http://www.openssl.org/                                                       openssl_license
+openvpn                                          http://openvpn.net/index.php/open-source.html                                 OpenVPN License
+opkg                                             http://code.google.com/p/opkg/                                                GPLv2+
+opkg-collateral                                  http://code.google.com/p/opkg/                                                GPLv2+
+opkg-config-base                                 http://code.google.com/p/opkg/                                                GPLv2+
+opkg-native                                      http://code.google.com/p/opkg/                                                GPLv2+
+opkg-utils                                       http://code.google.com/p/opkg/                                                GPLv2+
+oprofile                                         http://oprofile.sourceforge.net/news/                                         LGPLv2.1+ & GPLv2 
+oprofileui                                       http://oprofile.sourceforge.net/news/                                         LGPLv2.1+ & GPLv2
+opus-tools                                       http://www.opus-codec.org/                                                    BSD
+orc                                              http://code.entropywave.com/projects/orc/                                     BSD-2-Clause & BSD-3-Clause
+orrery                                           http://projects.openmoko.org/projects/orrery/                                 GPLv2+
+owfs                                             http://www.owfs.org/                                                          GPL
+owl-video                                        http://layers.openembedded.org/layerindex/recipe/29523/                       LGPLv2.1 & GPLv2+    
+p11-kit                                          http://layers.openembedded.org/layerindex/recipe/30151/                       BSD
+p910nd                                           http://p910nd.sourceforge.net/                                                GPLv2+
+packagegroup-core-x11-sato                       http://layers.openembedded.org/                                               Creative Commons Attribution 3.0
+packagekit                                       http://ftp.gnome.org/pub/GNOME/sources/gnome-packagekit/                      GPLv2+
+pango                                            http://ftp.gnome.org/pub/GNOME/sources/pango/                                 GPLv2+
+pangomm                                          http://ftp.gnome.org/pub/GNOME/sources/pangomm/                               GPLv2+
+patch                                            https://ftp.gnu.org/gnu/patch/                                                GPLv2+
+pavucontrol                                      http://freedesktop.org/software/pulseaudio/pavucontrol/                       GPL+.
+pax                                              http://www.openbsd.org/cgi-bin/cvsweb/src/bin/pax/                            BSD
+pax-utils                                        http://www.openbsd.org/cgi-bin/cvsweb/src/bin/pax/                            BSD
+pciutils                                         http://atrey.karlin.mff.cuni.cz/~mj/pciutils.shtml                            GPLv2+
+pcmanfm                                          http://kernel.org/pub/linux/utils/kernel/pcmcia/pcmcia.html                   GPLv2
+pcmciautils                                      http://pcsclite.alioth.debian.org/                                            BSD
+pcsc-lite                                        http://layers.openembedded.org/layerindex/recipe/29881/                       GPLv2
+perf                                             http://www.kernel.org/                                                        GPL
+perl                                             http://www.perl.org/                                                          Artistic-1.0 and GPL-1.0
+phonet-utils                                     http://layers.openembedded.org/layerindex/recipe/30030/                       GPLv2
+php                                              http://www.php.net/                                                           PHP-3.0
+physfs                                           http://icculus.org/physfs/                                                    zip_license
+picocom                                          http://www.tomtom.com/page.php?Page=GPL51and52                                GPL  
+pidgin                                           https://pidgin.im/                                                            GPL
+pidgin-otr                                       https://pidgin.im/                                                            GPL
+pigz                                             http://zlib.net/pigz/                                                         zlib_license 
+pixman                                           http://www.x.org/                                                             MIT & MIT-style & PD
+pkgconfig                                        http://ftp.gnome.org/pub/GNOME/sources/pkgconfig/                             GPLv2+                              
+plymouth                                         https://www.freedesktop.org/software/plymouth/                                GPLv2
+pm-qa                                            https://wiki.linaro.org                                                       GPLv2
+pm-utils                                         https://wiki.linaro.org                                                       GPLv2
+pngcheck                                         http://www.libpng.org/pub/png/apps/pngcheck.html                              GPLv2
+polkit                                           https://www.freedesktop.org/software/polkit/                                  GPLv2
+polkit-gnome                                     https://www.freedesktop.org/software/polkit/                                  GPLv2 
+polkit-group-rule-datetime                       https://www.freedesktop.org/software/polkit/                                  GPLv2
+polkit-group-rule-network                        https://www.freedesktop.org/software/polkit/                                  GPLv2  
+poppler                                          http://poppler.freedesktop.org/                                               GPL
+poppler-data                                     http://poppler.freedesktop.org/                                               GPL
+popt-native                                      http://layers.openembedded.org/layerindex/recipe/30190/                       portaudio license
+portaudio-v19                                    http://www.portaudio.com/                                                     portaudio license
+portmap                                          http://neil.brown.name/portmap/                                               BSD
+postgresql                                       http://www.postgresql.com/                                                    BSD                          
+powerdebug                                       https://launchpad.net/linaro-powerdebug                                       EPL-1.0  
+powertop                                         http://01.org/powertop/                                                       GPLv2
+ppp                                              http://samba.org/ppp/                                                         BSD & GPLv2+ & LGPLv2+ & PD
+pptp-linux                                       http://pptpclient.sourceforge.net/                                            GPLv2 
+prelink                                          http://people.redhat.com/jakub/prelink/                                       GPL
+procps                                           http://procps.sf.net/                                                         GPLv2+ & LGPLv2+  
+proftpd                                          http://www.proftpd.org/                                                       GPL  
+protobuf                                         http://code.google.com/p/protobuf/                                            BSD-3-Clause
+proxy-libintl                                    http://ftp.gnome.org/pub/GNOME/binaries/win32/dependencies/                   GPLv2  
+pseudo                                           http://git.yoctoproject.org/cgit/cgit.cgi/pseudo                              GPLv2  
+psmisc                                           http://layers.openembedded.org/layerindex/recipe/29606/                       GPLv2+ 
+psplash                                          http://git.yoctoproject.org/cgit/cgit.cgi/psplash                             GPLv2+     
+pth                                              https://ftp.gnu.org/gnu/pth/                                                  GPLv2+
+ptpd                                             http://poptop.sourceforge.net/                                                GPL  
+pty-forward-native                               http://layers.openembedded.org/layerindex/recipe/22821/                       GPLv2       
+pulseaudio                                       hhtps://www.freedesktop.org/software/pulseaudio/                              LGPLv2.1
+pure-ftpd                                        http://www.pureftpd.org/project/pure-ftpd                                     BSD  
+pv                                               http://layers.openembedded.org/layerindex/recipe/30203/                       Artistic-2.0  
+pxaregs                                          http://www.mn-logistik.de/unsupported/pxa250/                                 GPLv2 
+python                                           http://www.python.org/                                                        PSF
+python-argparse                                  http://www.python.org/                                                        PSF
+python-async                                     http://www.python.org/                                                        PSF  
+python-autobahn                                  http://www.python.org/                                                        PSF
+python-cheetah                                   http://www.python.org/                                                        PSF
+python-cloudeebus                                http://www.python.org/                                                        PSF
+python-cython                                    http://www.python.org/                                                        PSF
+python-dateutil                                  http://www.python.org/                                                        PSF
+python-dbus                                      http://www.python.org/                                                        PSF
+python-distribute                                http://www.python.org/                                                        PSF
+python-docutils-native                           http://www.python.org/                                                        PSF
+python-epydoc                                    http://www.python.org/                                                        PSF
+python-feedparser                                http://www.python.org/                                                        PSF
+python-futures                                   http://www.python.org/                                                        PSF
+python-gdata                                     http://www.python.org/                                                        PSF
+python-gevent                                    http://www.python.org/                                                        PSF
+python-git                                       http://www.python.org/                                                        PSF
+python-gitdb                                     http://www.python.org/                                                        PSF
+python-greenlet                                  http://www.python.org/                                                        PSF
+python-gst                                       http://www.python.org/                                                        PSF
+python-imaging                                   http://www.python.org/                                                        PSF
+python-ldap                                      http://www.python.org/                                                        PSF
+python-lxml                                      http://www.python.org/                                                        PSF
+python-m2crypto                                  http://www.python.org/                                                        PSF
+python-mako                                      http://www.python.org/                                                        PSF
+python-matplotlib                                http://www.python.org/                                                        PSF
+python-nose                                      http://www.python.org/                                                        PSF
+python-numeric                                   http://www.python.org/                                                        PSF
+python-numpy                                     http://www.python.org/                                                        PSF
+python-pexpect                                   http://www.python.org/                                                        PSF
+python-pip                                       http://www.python.org/                                                        PSF
+python-psutil                                    http://www.python.org/                                                        PSF
+python-pyalsaaudio                               http://www.python.org/                                                        PSF
+python-pycairo                                   http://www.python.org/                                                        PSF
+python-pycurl                                    http://www.python.org/                                                        PSF
+python-pygobject                                 http://www.python.org/                                                        PSF
+python-pygtk                                     http://www.python.org/                                                        PSF
+python-pyopenssl                                 http://www.python.org/                                                        PSF
+python-pyrex                                     http://www.python.org/                                                        PSF
+python-pyserial                                  http://www.python.org/                                                        PSF
+python-pyudev                                    http://www.python.org/                                                        PSF
+python-pyusb                                     http://www.python.org/                                                        PSF
+python-pyyaml                                    http://www.python.org/                                                        PSF
+python-scons                                     http://www.python.org/                                                        PSF
+python-scons-native                              http://www.python.org/                                                        PSF
+python-simplejson                                http://www.python.org/                                                        PSF
+python-sip                                       http://www.python.org/                                                        PSF
+python-smartpm                                   http://www.python.org/                                                        PSF
+python-smbus                                     http://www.python.org/                                                        PSF
+python-smmap                                     http://www.python.org/                                                        PSF
+python-sqlalchemy                                http://www.python.org/                                                        PSF
+python-tornado                                   http://www.python.org/                                                        PSF
+python-twisted                                   http://www.python.org/                                                        PSF
+python-vobject                                   http://www.python.org/                                                        PSF
+python-webdav                                    http://www.python.org/                                                        PSF
+python-zopeinterface                             http://www.python.org/                                                        PSF
+python3                                          http://www.python.org/                                                        PSF
+python3-distribute                               http://www.python.org/                                                        PSF
+python3-native                                   http://www.python.org/                                                        PSF 
+qemu                                             http://wiki.qemu.org/Index.html                                               GPL2 and LGPL2.1  
+qemu-helper                                      http://wiki.qemu.org/Index.html                                               GPL2 and LGPL2.1
+qemu                                             http://wiki.qemu.org/Index.html                                               GPL2 and LGPL2.1
+qemuwrapper-cross                                http://wiki.qemu.org/Index.html                                               GPL2 and LGPL2.1
+qsiv                                             http://layers.openembedded.org/layerindex/recipe/24118/                       GPLv2
+qt-creator                                       http://qt-project.org/                                                        LGPLv2.1 | GPLv3   
+qt-mobility-embedded                             http://recipes.yoctoproject.org/rrs/recipedetail/767/                         LGPLv2.1  
+qt-mobility-x11                                  http://recipes.yoctoproject.org/rrs/recipedetail/768/                         LGPLv2.1   
+qt3d                                             http://qt-project.org/                                                        LGPLv2.1 | GPLv3        
+qt4-embedded                                     http://qt-project.org/                                                        LGPLv2.1 | GPLv3
+qt4-native                                       http://qt-project.org/                                                        LGPLv2.1 | GPLv3
+qt4-x11-free                                     http://qt-project.org/                                                        LGPLv2.1 | GPLv3
+qtapp                                            http://code.qt.io/cgit/qt/qtapp.git/                                          GPLv2 + LGPL2.1v+ 
+qtbase                                           http://code.qt.io/cgit/qt/qtbase.git/                                         GPLv2 + LGPL2.1v+
+qtbase-native                                    http://code.qt.io/cgit/qt/qtbase.git/                                         GPLv2 + LGPL2.1v+
+qtconnectivity                                   http://code.qt.io/cgit/qt/qtconnectivity.git/                                 GPLv2 + LGPL2.1v+        
+qtdeclarative                                    http://code.qt.io/cgit/qt/declarative.git                                     GPLv2 + LGPL2.1v+
+qtgraphicaleffects                               http://code.qt.io/cgit/qt/graphicaleffects.git                                GPLv2 + LGPL2.1v+
+qtimageformats                                   http://code.qt.io/cgit/qt/imageformats.git                                    GPLv2 + LGPL2.1v+
+qtjsbackend                                      http://code.qt.io/cgit/qt/jsbackend.git                                       GPLv2 + LGPL2.1v+ 
+qtjsbackend-native                               http://code.qt.io/cgit/qt/jsbackend-native.git                                GPLv2 + LGPL2.1v+
+qtlocation                                       http://code.qt.io/cgit/qt/location.git                                        GPLv2 + LGPL2.1v+
+qtmultimedia                                     http://code.qt.io/cgit/qt/multimedia.git                                      GPLv2 + LGPL2.1v+ 
+qtquick1                                         http://code.qt.io/cgit/qt/quick1.git                                          GPLv2 + LGPL2.1v+
+qtquickcontrols                                  http://code.qt.io/cgit/qt/quickcontrols.git                                   GPLv2 + LGPL2.1v+
+qtscript                                         http://code.qt.io/cgit/qt/script.git                                          GPLv2 + LGPL2.1v+
+qtsensors                                        http://code.qt.io/cgit/qt/sensors.git                                         GPLv2 + LGPL2.1v+
+qtserialport                                     http://code.qt.io/cgit/qt/serialport.git                                      GPLv2 + LGPL2.1v+
+qtserialport-e                                   http://code.qt.io/cgit/qt/serialport-e.git                                    GPLv2 + LGPL2.1v+
+qtsvg                                            http://code.qt.io/cgit/qt/svg.git                                             GPLv2 + LGPL2.1v+
+qtsystems                                        http://code.qt.io/cgit/qt/systems.git                                         GPLv2 + LGPL2.1v+
+qttools                                          http://code.qt.io/cgit/qt/tools.git                                           GPLv2 + LGPL2.1v+
+qttools-native                                   http://code.qt.io/cgit/qt/tools-native.git                                    GPLv2 + LGPL2.1v+
+qtwayland                                        http://code.qt.io/cgit/qt/wayland.git                                         GPLv2 + LGPL2.1v+
+qtwayland-native                                 http://code.qt.io/cgit/qt/wayland-native.git                                  GPLv2 + LGPL2.1v+
+qtwebkit                                         http://code.qt.io/cgit/qt/webkit.git                                          GPLv2 + LGPL2.1v+
+qtwebkit-examples                                http://code.qt.io/cgit/qt/webkit-examples.git                                 GPLv2 + LGPL2.1v+
+qtwebsockets                                     http://code.qt.io/cgit/qt/websockets.git                                      GPLv2 + LGPL2.1v+
+qtx11extras                                      http://code.qt.io/cgit/qt/x11extras.git                                       GPLv2 + LGPL2.1v+
+qtxmlpatterns                                    http://code.qt.io/cgit/qt/xmlpatterns.git                                     GPLv2 + LGPL2.1v+
+quagga                                           http://www.quagga.net/                                                        GPLv2
+quicky                                           http://qt-apps.org/content/show.php/Quicky?content=80325                      GPLv2+
+quilt                                            http://savannah.nongnu.org/projects/quilt/                                    GPLv2+
+quota                                            http://sourceforge.net/projects/linuxquota/                                   BSD & GPLv2+ & LGPLv2.1+
+qwt                                              http://qwt.sourceforge.net/                                                   qwt_license
+qwt-e                                            http://qwt.sourceforge.net/                                                   qwt_license
+radvd                                            http://www.litech.org/radvd/                                                  radvd_license
+re2c                                             http://re2c.sourceforge.net/                                                  GPL
+read-edid                                        http://www.polypux.org/projects/read-edid/                                    Public Domain
+readline                                         https://ftp.gnu.org/gnu/readline/                                             GPLv2+  
+redis                                            http://redis.io/                                                              BSD  
+remake                                           http://bashdb.sourceforge.net/remake/                                         GPLv2
+renderer-service-upnp                            https://github.com/01org/renderer-service-upnp                                GPLv2
+resolvconf                                       http://packages.debian.org/resolvconf                                         GPLv2
+rfkill                                           http://wireless.kernel.org/en/users/Documentation/rfkill                      Public Domain
+rng-tools                                        http://sourceforge.net/projects/gkernel/                                      GPL
+rp-pppoe                                         http://www.roaringpenguin.com/pppoe/                                          GPL
+rpcbind                                          http://rpcbind.sourceforge.net/                                               rcp_license  
+rpm                                              http://rpm5.org/                                                              GPLv2+ 
+rrdtool                                          http://www.rrdtool.org/                                                       GPLv2+ or FLOSS Exception
+rsync                                            http://rsync.samba.org/                                                       GPL3 
+rt-tests                                         https://rt.wiki.kernel.org/index.php/Cyclictest                               GPLv2 & GPLv2+
+rtorrent                                         https://rakshasa.github.io/rtorrent/                                          GPLv2+
+ruby                                             http://www.ruby-lang.org/en/                                                  Ruby license
+rxvt-unicode                                     http://software.schmorp.de/pkg/rxvt-unicode.html                              GPL
+sato-icon-theme                                  http://layers.openembedded.org/layerindex/recipe/29526/                       Creative Commons Attribution 3.0
+sbc                                              https://www.bluez.org/                                                        GPLv2
+schroedinger                                     http://www.diracvideo.org/                                                    MPL | LGPL | MIT
+screen                                           https://ftp.gnu.org/gnu/screen/                                               GPLv2+
+sed                                              https://ftp.gnu.org/gnu/sed/                                                  GPLv2+
+sed-native                                       https://ftp.gnu.org/gnu/sed/                                                  GPLv2+
+ser2net                                          http://sourceforge.net/projects/ser2net                                       GPL 
+servicemanager                                   https://github.com/hmrc/service-manager                                       Apache License 2.0 
+sethdlc                                          https://www.kernel.org/pub/linux/utils/net/hdlc                               GPLv2 & GPLv2+ 
+setserial                                        http://setserial.sourceforge.net/                                             GPLv2
+sg3-utils                                        https://github.com/hreinecke/sg3_utils                                        BSD                                              
+sgml-common                                      http://sources.redhat.com/docbook-tools/                                      GPLv2+
+sgmlspl                                          http://sources.redhat.com/docbook-tools/                                      GPLv2+
+shadow                                           http://pkg-shadow.alioth.debian.org/                                          BSD | Artistic-1.0
+shadow-securetty                                 http://pkg-shadow.alioth.debian.org/                                          GPLv2+
+shadow-sysroot                                   http://pkg-shadow.alioth.debian.org/                                          GPLv2+
+shared-mime-info                                 https://www.freedesktop.org/software/shared-mime-info/                        LGPLv2+
+sip-native                                       http://www.riverbankcomputing.co.uk/sip                                       GPLv2+
+sjf2410-linux-native                             http://layers.openembedded.org/layerindex/recipe/21904/                       GPLv2+
+slang                                            http://www.jedsoft.org/slang/                                                 GPLv2+ 
+smartmontools                                    http://smartmontools.sourceforge.net/                                         GPLv2
+smbnetfs                                         http://sourceforge.net/projects/smbnetfs/                                     GPLv2+
+snort                                            https://www.snort.org/                                                        GPLv2+ and Commercial
+socat                                            http://www.dest-unreach.org/socat/                                            GPL-2.0+-with-OpenSSL-exception
+sound-theme-freedesktop                          http://freedesktop.org/wiki/Specifications/sound-theme-spec                   GPLv2+ CC-BY-3.0 CC-BY-SA-3.0
+sox                                              http://sox.sourceforge.net/                                                   GPL + LGPL
+spawn-fcgi                                       https://github.com/lighttpd/spawn-fcgi                                        spawn-fcgi
+speex                                            http://www.speex.org/                                                         BSD
+sqlite                                           http://www.sqlite.org/                                                        PD
+sqlite3                                          http://www.sqlite.org/                                                        PD
+squashfs-tools                                   https://github.com/plougher/squashfs-tools                                    GPLv2
+sshfs-fuse                                       http://sourceforge.net/projects/fuse/files/sshfs-fuse/                        LGPLv2.1
+start-stop-daemon                                http://packages.debian.org/source/stable/dpkg                                 GPL2
+startup-notification                             https://www.freedesktop.org/software/startup-notification/                    LGPLv2+
+stat                                             ftp://ftp.nl.netbsd.org/vol/2/metalab/utils/file/stat-3.3.tar.gz              GPLv2
+strace                                           http://sourceforge.net/projects/strace/                                       BSD
+stress                                           http://people.seas.harvard.edu/~apw/stress/                                   GPLv2
+strongswan                                       https://www.strongswan.org/                                                   GPL 
+stunnel                                          https://www.stunnel.org/index.html                                            GPL 
+subsurface                                       http://subsurface-divelog.org/                                                GPLv2
+subversion                                       http://subversion.tigris.org/                                                 Apache License 2.0
+sudo                                             http://www.sudo.ws/                                                           ISC & BSD & Zlib
+swig-native                                      http://www.swig.org/                                                          swig_license
+sylpheed                                         http://sylpheed.sraoss.jp/en/                                                 GPL and LGPL  
+synergy                                          http://synergy-project.org/download/                                          Commercial
+sysfsutils                                       http://linux-diag.sourceforge.net/Sysfsutils.html                             GPLv2 & LGPLv2.1
+sysklogd                                         http://www.infodrom.org/projects/sysklogd/                                    GPL and BSD
+syslinux                                         http://www.infodrom.org/projects/sysklogd/                                    GPL and BSD
+sysprof                                          http://sysprof.com/                                                           GPL2
+sysstat                                          http://lxqt.org/                                                              GPL2
+systemd                                          https://www.freedesktop.org/software/systemd/                                 GPLv2 & LGPLv2.1 & MIT
+systemd-serialgetty                              https://www.freedesktop.org/software/systemd/                                 GPLv2+
+systemtap                                        http://layers.openembedded.org/layerindex/recipe/29867/                       GPLv2
+systemtap-uprobes                                http://layers.openembedded.org/layerindex/recipe/29868/                       GPLv2    
+sysvinit                                         http://savannah.nongnu.org/projects/sysvinit/                                 GPLv2
+sysvinit-inittab                                 http://savannah.nongnu.org/projects/sysvinit/                                 GPLv2
+t1lib                                            http://fossies.org/linux/misc/t1lib-5.1.2.tar.gz                              GPLv2 
+taglib                                           https://taglib.github.io/                                                     LGPL and MPL 
+tar                                              https://ftp.gnu.org/gnu/tar/                                                  GPLv2+
+tbb                                              http://threadingbuildingblocks.org/                                           GPLv2
+tcf-agent                                        http://wiki.eclipse.org/TCF                                                   EPL-1.0 and EDL-1.0
+tcl                                              http://tcl.sourceforge.net/                                                   tcl_license & BSD-3-Clause
+tcp-wrappers                                     ftp://ftp.porcupine.org/pub/security/tcp_wrappers_7.6.tar.gz                  BSD 
+tcpdump                                          http://www.tcpdump.org/                                                       BSD-3-Clause
+tcsh                                             http://www.tcsh.org/                                                          BSD 
+tearsofsteel-1080p                               https://mango.blender.org/download/                                           Creative Commons Attribution 3.0
+telepathy-glib                                   http://telepathy.freedesktop.org/wiki/                                        LGPLv2.1+
+telepathy-idle                                   http://telepathy.freedesktop.org/wiki/                                        LGPLv2.1+
+telepathy-mission-control                        http://telepathy.freedesktop.org/wiki/                                        LGPLv2.1+
+telepathy-python                                 http://telepathy.freedesktop.org/wiki/                                        LGPLv2.1+
+terminus-font                                    http://terminus-font.sourceforge.net/                                         OFL-1.1 
+texi2html                                        http://www.nongnu.org/texi2html/                                              GPLv2+
+texinfo-native                                   http://www.gnu.org/software/texinfo/                                          GPLv3+
+tftp-hpa                                         https://www.kernel.org/pub/software/network/tftp/                             GPL
+tiff                                             http://www.remotesensing.org/libtiff/                                         BSD-2-Clause  
+time                                             https://ftp.gnu.org/gnu/time/                                                 GPLv2+
+tiobench                                         http://sourceforge.net/projects/tiobench/                                     GPLv2
+tipcutils                                        http://tipc.sourceforge.net/tipc_linux.shtml                                  GPLv2+ 
+tk                                               http://tcl.sourceforge.net/                                                   tcl_license 
+tmux                                             http://tmux.sourceforge.net/                                                  ISC
+trace-cmd                                        http://git.kernel.org/cgit/linux/kernel/git/rostedt/trace-cmd.git             GPL
+traceroute                                       http://sourceforge.net/projects/traceroute/?source=navbar                     GPLV2
+tracker                                          http://ftp.gnome.org/pub/GNOME/sources/tracker/                               GPLv2+
+tslib                                            https://github.com/kergoth/tslib                                              GPLv2 
+ttf-arphic-uming                                 http://www.freedesktop.org/wiki/Software/CJKUnifonts                          Arphic_Public_License
+ttf-bitstream-vera                               http://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/               custom for fonts
+ttf-dejavu                                       http://dejavu-fonts.org/wiki/Main_Page                                        custom for fonts
+ttf-droid                                        http://www.droidfonts.com/                                                    Apache License     
+ttf-gentium                                      http://scripts.sil.org/Gentium                                                OLF 
+ttf-hunkyfonts                                   http://sourceforge.net/projects/hunkyfonts                                    LGPL 
+ttf-inconsolata                                  http://levien.com/type/myfonts/inconsolata.html                               OLF
+ttf-liberation                                   https://www.redhat.com/promo/fonts/                                           OLF
+ttf-mplus                                        http://mplus-fonts.sourceforge.jp/                                            mpus license
+ttf-sazanami                                     http://www.javadikt.net/sazanami-hanazono/                                    BSD3
+ttf-ubuntu-font-family                           http://font.ubuntu.com/                                                       Ubuntu Font Licence 1.0
+ttf-wqy-zenhei                                   https://packages.debian.org/squeeze/ttf-wqy-zenhei                            GPLv2
+tunctl                                           http://sourceforge.net/projects/tunctl/files/                                 GPLv2                                                  
+twm                                              https://packages.debian.org/wheezy/twm                                        twm_license
+tzdata                                           http://cs.ucla.edu/~eggert/tz/tz-link.htm                                     Public Domain 
+u-boot-mkimage                                   http://www.denx.de/wiki/U-Boot/                                               Creative Commons Attribution 3.0
+u-boot-mkimage-native                            http://www.denx.de/wiki/U-Boot/                                               Creative Commons Attribution 3.0
+udisks                                           https://packages.debian.org/wheezy/udisks                                     GPLv2+
+uml-utilities                                    http://user-mode-linux.sourceforge.net/downloads.html                         GPL
+unfs3                                            http://unfs3.sourceforge.net/                                                 BSD 
+unzip                                            http://www.info-zip.org/                                                      BSD-3-Clause
+update-rc.d                                      http://layers.openembedded.org/layerindex/recipe/29357/                       GPLv2+
+upower                                           http://upower.freedesktop.org/                                                GPL 
+usb-modeswitch                                   http://www.draisberghof.de/usb_modeswitch/                                    GPL 
+usbinit                                          http://layers.openembedded.org/layerindex/recipe/29282/                       GPLv2 
+usbpath                                          RDK                                                                           Unknown
+usbutils                                         RDK                                                                           Unknown    
+usecpu                                           RDK                                                                           Unknown    
+util-linux                                       https://github.com/karelzak/util-linux                                        GPLv2 
+v4l-utils                                        http://git.linuxtv.org/v4l-utils.git                                          LGPLv2.1
+v86d                                             https://wiki.archlinux.org/index.php/Uvesafb                                  GPL2+ and PD
+vala                                             http://ftp.gnome.org/pub/GNOME/sources/vala/                                  GPLv2+
+vala-dbus-binding-tool-native                    https://packages.debian.org/sid/vala-dbus-binding-tool                        GPLv3
+vala-terminal                                    http://ftp.gnome.org/pub/GNOME/sources/vala/                                  GPLv2+       
+valgrind                                         http://valgrind.org                                                           GPL
+vblade                                           http://aoetools.sourceforge.net/                                              GPLv2+
+vboxguestdrivers                                 http://www.virtualbox.org                                                     GPL
+vim                                              http://www.vim.org/                                                           vim_license
+vlan                                             http://candelatech.com/~greear/vlan/vlan.1.9.tar.gz                           GPLv2 and GPLv3
+vlc                                              http://www.videolan.org/vlc/                                                  GPLv2+ and LGPLv2.1+
+vpnc                                             http://ftp.gnome.org/pub/GNOME/sources/NetworkManager-vpnc/                   GPLv2+
+vsftpd                                           http://layers.openembedded.org/layerindex/recipe/29466/                       GPLv2+ 
+vte                                              http://ftp.gnome.org/pub/GNOME/sources/vte/                                   GPLv2+
+waffle                                           http://www.waffle-gl.org/                                                     BSD Clause 2
+watchdog                                         http://watchdog.sourceforge.net/                                              GPLv2+ 
+wavpack                                          http://www.wavpack.com/                                                       BSD
+wayland                                          http://wayland.freedesktop.org/                                               MIT and GPL
+wbxml2                                           http://libwbxml.opensync.org/                                                 LGPLv2.1+
+webkit-gtk                                       http://www.webkitgtk.org/                                                     BSD & LGPLv2+
+weston                                           http://wayland.freedesktop.org/                                               MIT 
+weston-init                                      http://wayland.freedesktop.org/                                               MIT
+which                                            https://ftp.gnu.org/gnu/which/                                                GPLv2+
+wireless-tools                                   http://www.hpl.hp.com/personal/Jean_Tourrilhes/Linux/Tools.html               GPLv2 & (LGPLv2.1 | MPL-1.1 | BSD)
+wmiconfig                                        RDK                                                                           Unknown 
+wpa-supplicant                                   http://hostap.epitest.fi/wpa_supplicant/                                      BSD
+wsproxy                                          https://github.com/herenow/wsProxy                                            GPLv2
+wvdial                                           https://code.google.com/p/wvstreams/                                          GPL 
+wvstreams                                        https://code.google.com/p/wvstreams/                                          GPL 
+x264                                             http://www.videolan.org/developers/x264.html                                  GPLv2    
+xchat                                            http://ftp.gnome.org/pub/GNOME/sources/xchat/                                 GPLv2+
+xcursor-transparent-theme                        http://downloads.yoctoproject.org                                             GPLv2+
+xcursorgen                                       http://layers.openembedded.org/layerindex/recipe/26236/                       ManishSingh
+xdelta3                                          http://xdelta.org/                                                            GPLv2+     
+xfsprogs                                         http://oss.sgi.com/projects/xfs/                                              GPL
+xmlto                                            http://cyberelk.net/tim/software/xmlto/                                       GPL 
+xupnp                                            RDK                                                                           Unknown
+xvideo-tests                                     http://layers.openembedded.org/layerindex/recipe/452/                         GPLv2+ 
+xz                                               http://tukaani.org/xz/                                                        GPLv2+ & GPLv3+ & LGPLv2.1+ & PD
+xz-native                                        http://tukaani.org/xz/                                                        GPLv2+ & GPLv3+ & LGPLv2.1+ & PD
+yaffs2-utils                                     https://code.google.com/p/yaffs2utils/                                        GPLv2
+yajl                                             http://lloyd.github.com/yajl/                                                 ISC 
+yasm                                             http://yasm.tortall.net/                                                      BSD-2-Clause
+yavta                                            http://git.ideasonboard.org/yavta.git                                         GPLv2+  
+yp-tools                                         http://www.linux-nis.org/nis/yp-tools/                                        GPL2
+ypbind-mt                                        http://www.linux-nis.org/nis/ypbind-mt/                                       GPL2
+zeroc-ice                                        https://zeroc.com/download.html                                               zeroc license
+zeroconf                                         http://www.mono-project.com/Mono.Zeroconf                                     GPL
+zip                                              http://www.info-zip.org/pub/infozip/                                          BSD-3-Clause
+zip-native                                       http://www.info-zip.org/pub/infozip/                                          BSD-3-Clause
+zisofs-tools                                     http://www.kernel.org/pub/linux/utils/fs/zisofs-tools/                        GPL  
+zlib                                             http://zlib.net/                                                              zlib license 
+znc                                              http://wiki.znc.in/index.php/ZNC                                              Apache License v2.0
+zram                                             https://code.google.com/p/compcache/                                          GPLv2
+zsh                                              http://www.zsh.org/                                                           GPLv2
