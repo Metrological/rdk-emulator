@@ -6,7 +6,7 @@ The RDK Emulator enables you to run Metrological SDK Apps.
 Getting Started
 ---------------
 
-[TODO]
+Install the [Metrological Application Framework SDK](https://github.com/metrological/maf3-sdk) and [VirtualBox](http://virtualbox.org) on your host system. Extract the rdk-emulator.tar.gz and import the rdk-emulator.ova into VirtualBox.
 
 
 License
