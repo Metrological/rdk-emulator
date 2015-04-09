@@ -37,7 +37,7 @@ This will overwrite the default size of the AppStore to this value. So that the 
 
   `NODE_PORT=8080 node sdk.js`
 
-This will startup server with maf3-sdk interface.
+This will startup the server with maf3-sdk interface.
 
 *Import RDK-emulator into VirtualBox*
 
@@ -45,7 +45,7 @@ This will startup server with maf3-sdk interface.
 
 Select the RDK-emulator in VirtualBox and press start-button in order to boot the emulator. Wait until the opening-page is visible (you will see the title `Comcast Set-Top-Box-Developer-Edition` at the top of the page).
 
-With LEFT- and RIGHT-key - of your host-keyboard - you can navigate to the left or right. Navigate to the purple button, called "DeviceInfo", and select this button by pushing the ENTER-key. You will end-up with a completely white page with only the ip-address of the RDK-emulator displayed on it. Write down this ip-address somewhere (you will need it later). 
+With LEFT- and RIGHT-key, of your host-keyboard, you can navigate to the left or to the right. Navigate to the purple button, called "DeviceInfo", and select this button by pushing the ENTER-key. You will end-up with a completely white page with only the ip-address of the RDK-emulator displayed on it. Write down this ip-address somewhere (you will need it later). 
 
 By pushing the BACKSPACE-key you will leave the `DeviceInfo`-tabpage and end-up again on the opening webpage. 
 
