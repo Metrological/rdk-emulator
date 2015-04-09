@@ -19,15 +19,15 @@ Getting Started
 
 *Get source from [Metrological Application Framework SDK](httpsdd://github.com/metrological/maf3-sdk) and install dependencies*
 
-    `git clone https://github.com/Metrological/maf3-sdk.git && cd maf3-sdk`
+  `git clone https://github.com/Metrological/maf3-sdk.git && cd maf3-sdk`
 
-    `npm install` 
+  `npm install` 
 
 *Add scale setting to index.html*
 
 Open index.html in the editor-of-choice and just cut-and-paste below the line `language: 'en',`, the following line:
 
-    `scale: 580,`
+  `scale: 580,`
 
 This will overwrite the default size of the AppStore to this value. So that the AppStore better fits the RDK-emulator. 
     
@@ -35,13 +35,13 @@ This will overwrite the default size of the AppStore to this value. So that the 
 
 *Startup node.js with maf3-sdk*
 
-    `NODE_PORT=8080 node sdk.js`
+  `NODE_PORT=8080 node sdk.js`
 
 This will startup server with maf3-sdk interface.
 
 *Import RDK-emulator into VirtualBox*
 
-    `Extract the rdk-emulator.tar.gz and import the rdk-emulator.ova into VirtualBox.`
+  `Extract the rdk-emulator.tar.gz and import the rdk-emulator.ova into VirtualBox.`
 
 Select the RDK-emulator in VirtualBox and press start-button in order to boot the emulator. Wait until the opening-page is visible (you will see the title `Comcast Set-Top-Box-Developer-Edition` at the top of the page).
 
@@ -55,7 +55,7 @@ Okay, at this stage the RDK-emulator is also up and running. Perhaps a little ba
 
 *On Linux or Mac fetch menu.html onto your host system:*
    
-    `scp root@<ip-address-of-rdk-emulator>:/opt/www/menu.html menu.html`
+  `scp root@<ip-address-of-rdk-emulator>:/opt/www/menu.html menu.html`
 
 On Window see [use ftp-plugin of Notepad++](http://www.thewindowsclub.com/access-ftp-server-notepad) howto do this.
 
@@ -63,7 +63,7 @@ Change the existing href="http://widgets.metrological.com/metrological/nl/rpi" i
 
 *On Linux or Mac copy the changed menu.html back onto RKD-emulator:*
 
-    `scp menu.html root@<ip-address-of-rdk-emulator>:/opt/www/menu.html`
+  `scp menu.html root@<ip-address-of-rdk-emulator>:/opt/www/menu.html`
 
 On Window see [use ftp-plugin of Notepad++](http://www.thewindowsclub.com/access-ftp-server-notepad) howto do this.
 
