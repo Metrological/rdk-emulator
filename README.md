@@ -45,7 +45,7 @@ This will startup the server with maf3-sdk interface.
 
 Select the RDK-emulator in VirtualBox and press start-button in order to boot the emulator. Wait until the opening-page is visible (you will see the title `Comcast Set-Top-Box-Developer-Edition` at the top of the page).
 
-With LEFT- and RIGHT-key, of your host-keyboard, you can navigate to the left or to the right. Navigate to the purple button, called "DeviceInfo", and select this button by pushing the ENTER-key. You will end-up with a completely white page with only the ip-address of the RDK-emulator displayed on it. Write down this ip-address somewhere (you will need it later). 
+With the LEFT- or the RIGHT-key, of your host-keyboard, you can navigate, respectively: to the left or to the right. Navigate to the purple button, called "DeviceInfo", and select this button by pushing the ENTER-key. You will end-up with a completely white page with only the ip-address of the RDK-emulator displayed on it. Write down this ip-address somewhere (you will need it later). 
 
 By pushing the BACKSPACE-key you will leave the `DeviceInfo`-tabpage and end-up again on the opening webpage. 
 
@@ -77,7 +77,7 @@ Finally, goto [howto create an app](https://sdk.metrological.com/getting-started
 License
 -------
 
-Please read and agree the the [LICENSE](https://github.com/Metrological/rdk-emulator/blob/master/LICENSE) before using the RDK Emulator. All OSS licenses can be found at [OSS_LICENSES](https://github.com/Metrological/rdk-emulator/blob/master/OSS_LICENSES).
+Please read and agree with the [LICENSE](https://github.com/Metrological/rdk-emulator/blob/master/LICENSE) before using the RDK Emulator. All OSS licenses can be found at [OSS_LICENSES](https://github.com/Metrological/rdk-emulator/blob/master/OSS_LICENSES).
 
 Contribute
 ----------
