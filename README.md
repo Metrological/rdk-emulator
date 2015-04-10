@@ -61,7 +61,7 @@ On Window see [use ftp-plugin of Notepad++](http://www.thewindowsclub.com/access
 
 Change the existing href="http://widgets.metrological.com/metrological/nl/rpi" into href="http://`<ip-address-of-host>`:8080" in menu.html-file.
 
-*On Linux or Mac copy the changed menu.html back onto RKD-emulator:*
+*On Linux or Mac copy the changed menu.html back onto RDK-emulator:*
 
   `scp menu.html root@<ip-address-of-rdk-emulator>:/opt/www/menu.html`
 
