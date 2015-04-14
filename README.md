@@ -46,9 +46,11 @@ On Windows see [7zip](http://www.7-zip.org/) how to do this.
 
 Import the resulting RDK-emulator.ova into VirtualBox.
 
-When the import has finished select the RDK-emulator and press start-button in order to boot the emulator. Wait until the opening-page is visible (you will see the title `Comcast Set-Top-Box-Developer-Edition` at the top of the page).
+In VirtualBox select the RDK-emulator and start it. Wait until the opening-page is visible (you will see the title `Comcast Set-Top-Box-Developer-Edition` at the top of the page).
 
-With the LEFT- or the RIGHT-key, of your host-keyboard, you can navigate, respectively: to the left or to the right. Navigate to the purple button, called "DeviceInfo", and select this button by pushing the ENTER-key. You will end-up with a completely white page with only the ip-address of the RDK-emulator displayed on it. Write down this ip-address somewhere (you will need it later). 
+With the LEFT- or the RIGHT-key, of your host-keyboard, you can navigate, respectively: to the left or to the right. 
+
+Navigate to the purple button, called "DeviceInfo", and select this button by pushing the ENTER-key. You will end-up with a completely white page with only the ip-address of the RDK-emulator displayed on it. Write down this ip-address somewhere (you will need it later). 
 
 By pushing the BACKSPACE-key you will leave the `DeviceInfo`-tabpage and end-up again on the opening webpage. 
 
