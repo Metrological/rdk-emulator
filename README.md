@@ -38,9 +38,9 @@ This will startup the server with maf3-sdk interface.
 
 *Import RDK-emulator into VirtualBox*
 
-On Linux or Mac join the four 7zip-parts of rdk-emulator.7z files:
+On Linux or Mac goto the rdk-emalutor-directory and join the four 7zip-parts of rdk-emulator.7z files:
 
-  `7z x rdk-emulator.7z.001`
+  `cd ../rdk-emulator && 7z x rdk-emulator.7z.001`
 
 Uncompress rdk-emulator.tar.gz file:
   
