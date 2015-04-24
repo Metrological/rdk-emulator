@@ -18,7 +18,11 @@ Getting Started
 - On Mac enable ssh-command (see [how-to-enable-ssh](http://www.maclife.com/article/howtos/how_enable_ssh_your_mac)), if this is not enabled already.
 - On Windows download and install [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) and/or [Notepad++](http://notepad-plus-plus.org/), if these are not installed already. 
 
-*Get source from [Metrological Application Framework SDK](httpsdd://github.com/metrological/maf3-sdk) and install dependencies*
+*Clone the [RDK-emulator](https://github.com/Metrological/rdk-emulator.git)-repository to your host-system
+
+  `git clone https://github.com/Metrological/rdk-emulator.git` 
+
+*Get source from [Metrological Application Framework SDK](https://github.com/metrological/maf3-sdk) and install dependencies*
 
   `git clone https://github.com/Metrological/maf3-sdk.git && cd maf3-sdk`
 
