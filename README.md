@@ -18,7 +18,7 @@ Getting Started
 - On Mac enable ssh-command (see [how-to-enable-ssh](http://www.maclife.com/article/howtos/how_enable_ssh_your_mac)), if this is not enabled already.
 - On Windows download and install [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) and/or [Notepad++](http://notepad-plus-plus.org/), if these are not installed already. 
 
-*Clone the [RDK-emulator](https://github.com/Metrological/rdk-emulator.git)-repository to your host-system
+*Clone the [RDK-emulator](https://github.com/Metrological/rdk-emulator.git)-repository to your host-system*
 
   `git clone https://github.com/Metrological/rdk-emulator.git` 
 
