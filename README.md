@@ -68,7 +68,7 @@ Okay, at this stage the RDK-emulator is also up and running. Perhaps a little ba
 
 On Window see [use ftp-plugin of Notepad++](http://www.thewindowsclub.com/access-ftp-server-notepad) howto do this.
 
-Change the existing href="http://widgets.metrological.com/metrological/nl/rpi" into href="http://`<ip-address-of-host>`:8080" in menu.html-file.
+Open menu.html-file in your favourite text-editor and replace the `<ip-address-of-host>` in href="http://`<ip-address-of-host>`:8080" with the ip-address of your host.
 
 *On Linux or Mac copy the changed menu.html back onto RDK-emulator:*
 
