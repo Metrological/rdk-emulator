@@ -78,7 +78,7 @@ On Window see [use ftp-plugin of Notepad++](http://www.thewindowsclub.com/access
 
 Reboot the RDK-emulator and select the AppStore-button. You are now in the AppStore created with [maf3-sdk](https://github.com/Metrological/maf3-sdk/).
 
-*Inspecting and debugging RDK-browser with the WebInspector:*
+*Inspecting and debugging the RDK-browser with the WebInspector:*
 
 On your host-system open a webbrowser of your choice and goto the following URL-address.
 
