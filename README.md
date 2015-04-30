@@ -78,17 +78,17 @@ On Window see [use ftp-plugin of Notepad++](http://www.thewindowsclub.com/access
 
 Reboot the RDK-emulator and select the AppStore-button. You are now in the AppStore created with [maf3-sdk](https://github.com/Metrological/maf3-sdk/).
 
-*Debugging RDK-emulator with the WebInspector:*
+*Inspecting and debugging RDK-browser with the WebInspector:*
 
-On you host-system open a webbrowser of your choice and goto the following URL-address.
+On your host-system open a webbrowser of your choice and goto the following URL-address.
 
   `http://<ip-address-of-rdk-emulator>:9222`
 
-You will see an empty-page with only a hyperlink on it. By clicking on this link you will end-up with the WebInspector-menu. Developers still new to the WebInspector can check out an [introduction guide](https://developer.apple.com/library/mac/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007874-CH1-SW1) for more background info over the WebInspector.   
+You will end-up with a webpage with only one hyperlink on it. By clicking on this link you will end-up with the WebInspector-menu. Developers still new to the WebInspector can check out an [introduction guide](https://developer.apple.com/library/mac/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007874-CH1-SW1) for more background information.   
 
-*Create an app yourself:*
+*Create a TV-app yourself:*
 
-Now your TV-app development environment is ready, you have everything you need to develop, build and test an new TV-app yourself. Just jump to [howto create a TV-app](https://sdk.metrological.com/getting-started) for a short introduction.  
+Now your TV-app development environment is ready, you have everything in place to develop, build and test a new TV-app yourself. Just jump to [howto create a TV-app](https://sdk.metrological.com/getting-started) for a short introduction.  
 
 
 -------------------------------
